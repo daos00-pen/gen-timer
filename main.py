@@ -129,11 +129,11 @@ def main():
                 - Do NOT output any thinking processes, only the keywords.
                     """
                 t0_inference = time.perf_counter()
-                keywords = chat_completion(documents)
+                response = chat_completion(documents)
                 t1_inference = time.perf_counter()
                 inference_time = t1_inference - t0_inference
                 st.write(f"Time taken: {inference_time:.6f} seconds\n\n")
-                if not keywords:
+                if not response:
                     status.update(
                         label="Generate keywords chat error", state="error", expanded=False
                     )
@@ -141,8 +141,9 @@ def main():
                     status.update(
                         label="Generate keywords chat generated!", state="complete", expanded=False
                     )
-        if keywords:
-            st.write(keywords)
+        if response:
+            st.write(response.choices[0].message.content.strip())
+            keywords = response.choices[0].message.content.strip()
             k_list = keywords.split(",")
             keywords_list = [keyword.strip() for keyword in k_list]
             search_trigger(keywords_list)
