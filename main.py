@@ -132,44 +132,45 @@ def main():
                         label="Generate keywords keyllm generated!", state="complete", expanded=False
                     )
 
-    with st.container(border=True):
-        # selection = st.pills("Choose which keywords should be used for searching or add your own down below", keywords,
-        #                      selection_mode="multi")
-        # st.markdown(f"Your selected options: {selection}.")
+    if keywords:
+        with st.container(border=True):
+            # selection = st.pills("Choose which keywords should be used for searching or add your own down below", keywords,
+            #                      selection_mode="multi")
+            # st.markdown(f"Your selected options: {selection}.")
 
-        from streamlit_tags import st_tags
-        chosen_keywords = st_tags(
-            label='# Generated Keywords:',
-            text='Press enter to add more',
-            value=keywords,
-            suggestions=keywords,
-            maxtags=30,
-            key='1')
-        if st.button("Search"):
-            import pandas as pd
-            from urllib.parse import quote_plus
-            from googlesearch import search
+            from streamlit_tags import st_tags
+            chosen_keywords = st_tags(
+                label='# Generated Keywords:',
+                text='Press enter to add more',
+                value=keywords,
+                suggestions=keywords,
+                maxtags=30,
+                key='1')
+            if st.button("Search"):
+                import pandas as pd
+                from urllib.parse import quote_plus
+                from googlesearch import search
 
-            keywords_str = ", ".join(chosen_keywords)
-            print(keywords_str)
-            encoded_query = quote_plus(keywords_str)
-            srch = search(keywords_str, num=20, stop=20, pause=1)
+                keywords_str = ", ".join(chosen_keywords)
+                print(keywords_str)
+                encoded_query = quote_plus(keywords_str)
+                srch = search(keywords_str, num=20, stop=20, pause=1)
 
-            with st.spinner("Searching...", show_time=True):
-                st.link_button("Search in browser", f"https://www.google.com/search?q={encoded_query}")
-                if not srch:
-                    st.error("No results found.")
-                else:
-                    data_df = pd.DataFrame({"links": srch})
-                    st.data_editor(
-                        data_df,
-                        column_config={
-                            "links": st.column_config.LinkColumn(
-                                "Links"
-                            ),
-                        },
-                        hide_index=True,
-                    )
+                with st.spinner("Searching...", show_time=True):
+                    st.link_button("Search in browser", f"https://www.google.com/search?q={encoded_query}")
+                    if not srch:
+                        st.error("No results found.")
+                    else:
+                        data_df = pd.DataFrame({"links": srch})
+                        st.data_editor(
+                            data_df,
+                            column_config={
+                                "links": st.column_config.LinkColumn(
+                                    "Links"
+                                ),
+                            },
+                            hide_index=True,
+                        )
 
 
 if __name__ == '__main__':
