@@ -70,7 +70,7 @@ def get_prompt():
 
 
 def main():
-
+    keywords = ""
     st.title('Python AI Web Search')
     name = st.text_input("Enter file name: ")
     range = st.text_input("Enter range 1-5: ")
