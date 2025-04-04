@@ -1,0 +1,847 @@
+https://www.gov.uk/browse/working
+<html lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="Government Digital Service" name="govuk:primary-publishing-organisation"/>
+  <meta content="2021-07-09T13:54:10+01:00" name="govuk:public-updated-at"/>
+  <meta content="2025-03-17T17:51:01+00:00" name="govuk:updated-at"/>
+  <meta content="2015-04-08T11:48:40+01:00" name="govuk:first-published-at"/>
+  <meta content="a24f0662-bbfe-4b77-9ec0-e73240e88b9a" name="govuk:content-id"/>
+  <meta content="mainstream_browse_page" name="govuk:schema-name"/>
+  <meta content="collections" name="govuk:rendering-app"/>
+  <meta content="collections-publisher" name="govuk:publishing-app"/>
+  <meta content="mainstream_browse_page" name="govuk:format"/>
+  <meta content="working, jobs and pensions" name="govuk:section"/>
+  <meta content="default" name="govuk:navigation-list-type"/>
+  <meta content="Browse level 1" name="govuk:navigation-page-type"/>
+  <meta content="Includes holidays, finding a job and redundancy" name="description"/>
+  <meta charset="utf-8"/>
+  <title>
+   Working, jobs and pensions - GOV.UK
+  </title>
+  <meta content="56.0.0" name="govuk:components_gem_version"/>
+  <meta content="#0b0c0c" name="theme-color"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png" property="og:image"/>
+  <meta content="collections" name="govuk:rendering-application"/>
+ </head>
+ <body>
+  <div aria-label="Cookies on GOV.UK" data-cookie-banner-module-started="true" data-module="cookie-banner" data-nosnippet="" id="global-cookie-message" role="region">
+   <div>
+    <div>
+     <div>
+      <h2>
+       Cookies on GOV.UK
+      </h2>
+      <div tabindex="-1">
+       <span>
+        <p>
+         We use some essential cookies to make this website work.
+        </p>
+        <p>
+         We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+        </p>
+        <p>
+         We also use cookies set by other sites to help us deliver content from their services.
+        </p>
+       </span>
+       <p data-ga4-cookie-banner="" data-ga4-link='{"event_name":"navigation","type":"cookie banner","section":"You have accepted additional cookies"}' data-ga4-link-tracker-module-started="true" data-ga4-set-indexes="" data-ga4-track-links-only="" data-module="ga4-link-tracker" hidden="">
+        You have accepted additional cookies.
+        <span>
+         You can
+         <a href="https://www.gov.uk/help/cookies">
+          change your cookie settings
+         </a>
+         at any time.
+        </span>
+       </p>
+       <p hidden="">
+        You have rejected additional cookies.
+        <span>
+         You can
+         <a href="https://www.gov.uk/help/cookies">
+          change your cookie settings
+         </a>
+         at any time.
+        </span>
+       </p>
+      </div>
+     </div>
+    </div>
+    <div>
+     <button data-accept-cookies="true" data-cookie-types="all" type="submit">
+      Accept additional cookies
+     </button>
+     <button data-reject-cookies="true" type="submit">
+      Reject additional cookies
+     </button>
+     <a href="https://www.gov.uk/help/cookies">
+      View cookies
+     </a>
+    </div>
+    <div hidden="">
+     <button data-ga4-event='{"event_name":"select_content","type":"cookie banner","action":"closed","section":"You have accepted additional cookies"}' data-ga4-event-tracker-module-started="true" data-hide-cookie-banner="true" data-module="ga4-event-tracker">
+      Hide this message
+     </button>
+    </div>
+   </div>
+  </div>
+  <a data-govuk-skip-link-init="" data-govuk-skip-link-module-started="true" data-module="govuk-skip-link" href="#content">
+   Skip to main content
+  </a>
+  <header data-ga4-event-tracker-module-started="true" data-ga4-expandable="" data-ga4-link-tracker-module-started="true" data-module="ga4-event-tracker ga4-link-tracker">
+   <div>
+    <div>
+     <div>
+      <a aria-label="Go to the GOV.UK homepage" data-ga4-link='{"event_name":"navigation","type":"header menu bar","external":"false","text":"GOV.UK","section":"Logo","index_link":1,"index_section":0,"index_section_count":2,"index_total":1}' href="https://www.gov.uk" id="logo">
+      </a>
+     </div>
+    </div>
+    <nav aria-labelledby="super-navigation-menu-heading" data-module="super-navigation-mega-menu" data-super-navigation-mega-menu-module-started="true">
+     <h2 id="super-navigation-menu-heading">
+      Navigation menu
+     </h2>
+     <div>
+      <div>
+       <div>
+        <a hidden="hidden" href="/browse">
+         <span>
+          Menu
+         </span>
+        </a>
+        <button aria-controls="super-navigation-menu" aria-expanded="false" aria-label="Show navigation menu" data-ga4-event='{"event_name":"select_content","type":"header menu bar","text":"Menu","index_section":1,"index_section_count":2,"section":"Menu"}' data-text-for-hide="Hide navigation menu" data-text-for-show="Show navigation menu" data-toggle-desktop-group="top" data-toggle-mobile-group="top" data-tracking-key="menu" id="super-navigation-menu-toggle" type="button">
+         <span>
+          Menu
+         </span>
+        </button>
+       </div>
+       <div>
+        <button aria-controls="super-search-menu" aria-expanded="false" aria-label="Show search menu" data-ga4-event='{"event_name":"select_content","type":"header menu bar","text":"Search","index_section":2,"index_section_count":2,"section":"Search"}' data-text-for-hide="Hide search menu" data-text-for-show="Show search menu" data-toggle-desktop-group="top" data-toggle-mobile-group="top" data-tracking-key="search" id="super-search-menu-toggle" type="button">
+         <span>
+          Search GOV.UK
+         </span>
+         <span aria-hidden="true" focusable="false">
+          ×
+         </span>
+        </button>
+        <a hidden="hidden" href="/search">
+         <span>
+          Search GOV.UK
+         </span>
+        </a>
+       </div>
+      </div>
+     </div>
+     <div hidden="hidden" id="super-navigation-menu">
+      <div>
+       <div>
+        <div>
+         <h3>
+          Services and information
+         </h3>
+         <ul>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":1,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/benefits">
+            Benefits
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":2,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/births-deaths-marriages">
+            Births, death, marriages and care
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":3,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/business">
+            Business and self-employed
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":4,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/childcare-parenting">
+            Childcare and parenting
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":5,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/citizenship">
+            Citizenship and living in the UK
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":6,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/justice">
+            Crime, justice and the law
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":7,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/disabilities">
+            Disabled people
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":8,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/driving">
+            Driving and transport
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":9,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/education">
+            Education and learning
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":10,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/employing-people">
+            Employing people
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":11,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/environment-countryside">
+            Environment and countryside
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":12,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/housing-local-services">
+            Housing and local services
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":13,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/tax">
+            Money and tax
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":14,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/abroad">
+            Passports, travel and living abroad
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":15,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/visas-immigration">
+            Visas and immigration
+           </a>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":1,"index_link":16,"index_section_count":3,"index_total":16,"section":"Services and information"}' href="https://www.gov.uk/browse/working">
+            Working, jobs and pensions
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div>
+         <h3>
+          Government activity
+         </h3>
+         <ul>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":2,"index_link":1,"index_section_count":3,"index_total":6,"section":"Government activity"}' href="https://www.gov.uk/government/organisations">
+            Departments
+           </a>
+           <p>
+            Departments, agencies and public bodies
+           </p>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":2,"index_link":2,"index_section_count":3,"index_total":6,"section":"Government activity"}' href="https://www.gov.uk/search/news-and-communications">
+            News
+           </a>
+           <p>
+            News stories, speeches, letters and notices
+           </p>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":2,"index_link":3,"index_section_count":3,"index_total":6,"section":"Government activity"}' href="https://www.gov.uk/search/guidance-and-regulation">
+            Guidance and regulation
+           </a>
+           <p>
+            Detailed guidance, regulations and rules
+           </p>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":2,"index_link":4,"index_section_count":3,"index_total":6,"section":"Government activity"}' href="https://www.gov.uk/search/research-and-statistics">
+            Research and statistics
+           </a>
+           <p>
+            Reports, analysis and official statistics
+           </p>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":2,"index_link":5,"index_section_count":3,"index_total":6,"section":"Government activity"}' href="https://www.gov.uk/search/policy-papers-and-consultations">
+            Policy papers and consultations
+           </a>
+           <p>
+            Consultations and strategy
+           </p>
+          </li>
+          <li>
+           <a data-ga4-link='{"event_name":"navigation","type":"header menu bar","index_section":2,"index_link":6,"index_section_count":3,"index_total":6,"section":"Government activity"}' href="https://www.gov.uk/search/transparency-and-freedom-of-information-releases">
+            Transparency
+           </a>
+           <p>
+            Data, Freedom of Information releases and corporate reports
+           </p>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div hidden="hidden" id="super-search-menu">
+      <div>
+       <h3>
+        Search
+       </h3>
+       <div>
+        <div>
+         <form action="https://www.gov.uk/search/all" aria-label="Site-wide" data-ga4-search-index-section="3" data-ga4-search-index-section-count="3" data-ga4-search-section="Search GOV.UK" data-ga4-search-tracker-module-started="true" data-ga4-search-type="header menu bar" data-ga4-search-url="/search/all" data-module="ga4-search-tracker" id="search" method="get" role="search">
+          <div data-gem-search-with-autocomplete-module-started="true" data-module="gem-search-with-autocomplete" data-source-key="suggestions" data-source-url="https://www.gov.uk/api/search/autocomplete.json">
+           <div data-gem-toggle-input-class-on-focus-module-started="true" data-module="gem-toggle-input-class-on-focus">
+            <label for="search-main-7fb0c570">
+             Search GOV.UK
+            </label>
+            <div>
+             <div>
+              <div>
+               <div style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin-bottom: -1px; margin-right: -1px; overflow: hidden; padding: 0px; position: absolute; white-space: nowrap; width: 1px;">
+                <div aria-atomic="true" aria-live="polite" id="search-main-7fb0c570__status--A" role="status">
+                </div>
+                <div aria-atomic="true" aria-live="polite" id="search-main-7fb0c570__status--B" role="status">
+                </div>
+               </div>
+               <input aria-autocomplete="list" aria-controls="search-main-7fb0c570__listbox" aria-describedby="search-main-7fb0c570__assistiveHint" aria-expanded="false" autocomplete="off" id="search-main-7fb0c570" name="keywords" placeholder="" role="combobox" type="search"/>
+               <ul aria-labelledby="search-main-7fb0c570" id="search-main-7fb0c570__listbox" role="listbox">
+               </ul>
+               <span id="search-main-7fb0c570__assistiveHint" style="display: none;">
+                When search suggestions are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.
+               </span>
+              </div>
+             </div>
+             <div>
+              <button enterkeyhint="search" type="submit">
+               Search
+              </button>
+             </div>
+            </div>
+           </div>
+          </div>
+         </form>
+        </div>
+       </div>
+      </div>
+     </div>
+    </nav>
+   </div>
+  </header>
+  <div id="wrapper">
+   <div>
+    <div>
+     <div>
+     </div>
+     <div>
+      <div>
+       <nav aria-label="Breadcrumb" data-ga4-link-tracker-module-started="true" data-module="ga4-link-tracker" dir="ltr">
+        <ol>
+         <li>
+          <a data-ga4-link='{"event_name":"navigation","type":"breadcrumb","index_link":"1","index_total":"1"}' href="/">
+           Home
+          </a>
+         </li>
+        </ol>
+       </nav>
+      </div>
+     </div>
+    </div>
+   </div>
+   <main id="content" lang="en" role="main">
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <h2>
+          Working, jobs and pensions
+         </h2>
+        </div>
+        <p>
+         Includes holidays, finding a job and redundancy
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div>
+    </div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <h2>
+          Most viewed
+         </h2>
+        </div>
+        <ul>
+         <li>
+          <div data-ga4-link='{"event_name":"navigation","type":"action","index_link":1,"index_total":3,"text":"Universal Credit","section":"Most viewed"}' data-ga4-link-tracker-module-started="true" data-ga4-track-links-only="" data-module="ga4-link-tracker">
+           <span>
+            <a href="/universal-credit">
+             Universal Credit
+            </a>
+           </span>
+          </div>
+         </li>
+         <li>
+          <div data-ga4-link='{"event_name":"navigation","type":"action","index_link":2,"index_total":3,"text":"Check your State Pension forecast","section":"Most viewed"}' data-ga4-link-tracker-module-started="true" data-ga4-track-links-only="" data-module="ga4-link-tracker">
+           <span>
+            <a href="/check-state-pension">
+             Check your State Pension forecast
+            </a>
+           </span>
+          </div>
+         </li>
+         <li>
+          <div data-ga4-link='{"event_name":"navigation","type":"action","index_link":3,"index_total":3,"text":"National Minimum Wage and National Living Wage rates","section":"Most viewed"}' data-ga4-link-tracker-module-started="true" data-ga4-track-links-only="" data-module="ga4-link-tracker">
+           <span>
+            <a href="/national-minimum-wage-rates">
+             National Minimum Wage and National Living Wage rates
+            </a>
+           </span>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div>
+     <div>
+      <div data-ga4-link-tracker-module-started="true" data-module="ga4-link-tracker">
+       <div>
+        <h2>
+         Topics
+        </h2>
+        <ul>
+         <li>
+          <div>
+           <h3>
+            <a data-ga4-link='{"event_name":"navigation","type":"browse card","index_link":1,"index_total":"9","section":"Topics"}' href="/browse/working/armed-forces">
+             Armed forces
+            </a>
+           </h3>
+           <p>
+            Includes reserve forces and armed forces pensions, benefits and financial assistance.
+           </p>
+          </div>
+         </li>
+         <li>
+          <div>
+           <h3>
+            <a data-ga4-link='{"event_name":"navigation","type":"browse card","index_link":2,"index_total":"9","section":"Topics"}' href="/browse/working/finding-job">
+             Finding a job
+            </a>
+           </h3>
+           <p>
+            Job search, Jobseeker's Allowance (JSA), job offers, right to work share codes, apprenticeships and volunteering
+           </p>
+          </div>
+         </li>
+         <li>
+          <div>
+           <h3>
+            <a data-ga4-link='{"event_name":"navigation","type":"browse card","index_link":3,"index_total":"9","section":"Topics"}' href="/browse/working/time-off">
+             Holidays, time off, sick leave, maternity and paternity leave
+            </a>
+           </h3>
+           <p>
+            Includes career breaks and the holiday entitlement calculator
+           </p>
+          </div>
+         </li>
+         <li>
+          <div>
+           <h3>
+            <a data-ga4-link='{"event_name":"navigation","type":"browse card","index_link":4,"index_total":"9","section":"Topics"}' href="/browse/working/redundancies-dismissals">
+             Redundancies, dismissals and disciplinaries
+            </a>
+           </h3>
+           <p>
+            Includes solving a workplace dispute, calculating redundancy pay and dismissal
+           </p>
+          </div>
+         </li>
+         <li>
+          <div>
+           <h3>
+            <a data-ga4-link='{"event_name":"navigation","type":"browse card","index_link":5,"index_total":"9","section":"Topics"}' href="/browse/working/state-pension">
+             State Pension
+            </a>
+           </h3>
+           <p>
+            Calculating State Pension, Pension Credit, eligibility, claiming and deferring
+           </p>
+          </div>
+         </li>
+         <li>
+          <div>
+           <h3>
+            <a data-ga4-link='{"event_name":"navigation","type":"browse card","index_link":6,"index_total":"9","section":"Topics"}' href="/browse/working/workplace-personal-pensions">
+             Workplace and personal pensions
+            </a>
+           </h3>
+           <p>
+            Includes automatic enrolment, lost pensions and planning for retirement
+           </p>
+          </div>
+         </li>
+         <li>
+          <div>
+           <h3>
+            <a data-ga4-link='{"event_name":"navigation","type":"browse card","index_link":7,"index_total":"9","section":"Topics"}' href="/browse/working/contract-working-hours">
+             Your contract and working hours
+            </a>
+           </h3>
+           <p>
+            Includes employment status, workers' rights and changes to contracts
+           </p>
+          </div>
+         </li>
+         <li>
+          <div>
+           <h3>
+            <a data-ga4-link='{"event_name":"navigation","type":"browse card","index_link":8,"index_total":"9","section":"Topics"}' href="/browse/working/tax-minimum-wage">
+             Your pay, tax and the National Minimum Wage
+            </a>
+           </h3>
+           <p>
+            Includes National Minimum Wage rates, keeping pay records and pay rights
+           </p>
+          </div>
+         </li>
+         <li>
+          <div>
+           <h3>
+            <a data-ga4-link='{"event_name":"navigation","type":"browse card","index_link":9,"index_total":"9","section":"Topics"}' href="/browse/working/rights-trade-unions">
+             Your rights at work and trade unions
+            </a>
+           </h3>
+           <p>
+            Includes health and safety, accidents at work and joining a trade union
+           </p>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </main>
+  </div>
+  <div>
+   <div data-feedback-module-started="true" data-ga4-event-tracker-module-started="true" data-module="feedback ga4-event-tracker">
+    <div tabindex="-1">
+     <div>
+      <div>
+       <div>
+        <h2>
+         Is this page useful?
+        </h2>
+        <ul>
+         <li hidden="">
+          <a aria-hidden="true" hidden="hidden" href="/contact/govuk" role="button">
+           Maybe
+          </a>
+         </li>
+         <li>
+          <button data-ga4-event='{"event_name":"form_submit","type":"feedback","text":"Yes","section":"Is this page useful?","tool_name":"Is this page useful?"}'>
+           Yes
+           <span>
+            this page is useful
+           </span>
+          </button>
+         </li>
+         <li>
+          <button aria-controls="page-is-not-useful" aria-expanded="false" data-ga4-event='{"event_name":"form_submit","type":"feedback","text":"No","section":"Is this page useful?","tool_name":"Is this page useful?"}'>
+           No
+           <span>
+            this page is not useful
+           </span>
+          </button>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div hidden="" role="alert">
+       Thank you for your feedback
+      </div>
+      <div>
+       <button aria-controls="something-is-wrong" aria-expanded="false" data-ga4-event='{"event_name":"form_submit","type":"feedback","text":"Report a problem with this page","section":"Is this page useful?","tool_name":"Is this page useful?"}'>
+        Report a problem with this page
+       </button>
+      </div>
+     </div>
+    </div>
+    <form action="https://www.gov.uk/contact/govuk/problem_reports" hidden="" id="something-is-wrong" method="post">
+     <div>
+      <div>
+       <div hidden="" tabindex="-1">
+       </div>
+       <input name="url" type="hidden" value="https://www.gov.uk/browse/working"/>
+       <h3>
+        Help us improve GOV.UK
+       </h3>
+       <p id="feedback_explanation">
+        Don’t include personal or financial information like your National Insurance number or credit card details.
+       </p>
+       <div aria-hidden="true">
+        <label for="giraffe">
+         This field is for robots only. Please leave blank
+        </label>
+        <input autocomplete="off" id="giraffe" name="giraffe" pattern=".{0}" tabindex="-1" type="text"/>
+       </div>
+       <div>
+        <label for="textarea-3930d0bc">
+         What were you doing?
+        </label>
+        <textarea aria-describedby="feedback_explanation" id="textarea-3930d0bc" name="what_doing" rows="3" spellcheck="true"></textarea>
+       </div>
+       <div>
+        <label for="textarea-1916adda">
+         What went wrong?
+        </label>
+        <textarea id="textarea-1916adda" name="what_wrong" rows="3" spellcheck="true"></textarea>
+       </div>
+       <button data-ga4-event='{"event_name":"form_submit","type":"feedback","text":"Send","section":"Help us improve GOV.UK","tool_name":"Help us improve GOV.UK"}' type="submit">
+        Send
+       </button>
+       <button aria-controls="something-is-wrong" aria-expanded="true">
+        Cancel
+       </button>
+      </div>
+     </div>
+     <input name="javascript_enabled" type="hidden" value="true"/>
+     <input name="referrer" type="hidden" value="unknown"/>
+     <input name="timer" type="hidden" value="0"/>
+    </form>
+    <div hidden="" id="page-is-not-useful">
+     <div>
+      <div id="survey-wrapper">
+       <div hidden="" tabindex="-1">
+       </div>
+       <h3>
+        Help us improve GOV.UK
+       </h3>
+       <p id="survey_explanation">
+        To help us improve GOV.UK, we’d like to know more about your visit today.
+        <a href="https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=/browse/working" rel="noopener noreferrer external" target="_blank">
+         Please fill in this survey (opens in a new tab
+         )
+        </a>
+        .
+       </p>
+       <button aria-controls="page-is-not-useful" aria-expanded="true">
+        Cancel
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <footer data-ga4-link-tracker-module-started="true" data-module="ga4-link-tracker">
+   <div>
+    <div>
+     <div>
+      <h2>
+       Services and information
+      </h2>
+      <ul>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"1","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/benefits">
+         Benefits
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"2","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/births-deaths-marriages">
+         Births, death, marriages and care
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"3","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/business">
+         Business and self-employed
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"4","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/childcare-parenting">
+         Childcare and parenting
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"5","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/citizenship">
+         Citizenship and living in the UK
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"6","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/justice">
+         Crime, justice and the law
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"7","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/disabilities">
+         Disabled people
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"8","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/driving">
+         Driving and transport
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"9","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/education">
+         Education and learning
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"10","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/employing-people">
+         Employing people
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"11","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/environment-countryside">
+         Environment and countryside
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"12","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/housing-local-services">
+         Housing and local services
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"13","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/tax">
+         Money and tax
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"14","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/abroad">
+         Passports, travel and living abroad
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"15","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/visas-immigration">
+         Visas and immigration
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"16","index_section":"1","index_section_count":"5","index_total":"16","section":"Services and information"}' href="https://www.gov.uk/browse/working">
+         Working, jobs and pensions
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div>
+      <h2>
+       Government activity
+      </h2>
+      <ul>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"1","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="https://www.gov.uk/government/organisations">
+         Departments
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"2","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="https://www.gov.uk/search/news-and-communications">
+         News
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"3","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="https://www.gov.uk/search/guidance-and-regulation">
+         Guidance and regulation
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"4","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="https://www.gov.uk/search/research-and-statistics">
+         Research and statistics
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"5","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="https://www.gov.uk/search/policy-papers-and-consultations">
+         Policy papers and consultations
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"6","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="https://www.gov.uk/search/transparency-and-freedom-of-information-releases">
+         Transparency
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"7","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="https://www.gov.uk/government/how-government-works">
+         How government works
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"8","index_section":"2","index_section_count":"5","index_total":"8","section":"Government activity"}' href="https://www.gov.uk/government/get-involved">
+         Get involved
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <hr/>
+    <div>
+     <div>
+      <h2>
+       Support links
+      </h2>
+      <ul>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"1","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="https://www.gov.uk/help">
+         Help
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"2","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="https://www.gov.uk/help/privacy-notice">
+         Privacy
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"3","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="https://www.gov.uk/help/cookies">
+         Cookies
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"4","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="https://www.gov.uk/help/accessibility-statement">
+         Accessibility statement
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"5","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="https://www.gov.uk/contact">
+         Contact
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"6","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="https://www.gov.uk/help/terms-conditions">
+         Terms and conditions
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"7","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="https://www.gov.uk/cymraeg" lang="cy">
+         Rhestr o Wasanaethau Cymraeg
+        </a>
+       </li>
+       <li>
+        <a data-ga4-link='{"event_name":"navigation","type":"footer","index_link":"8","index_section":"3","index_section_count":"5","index_total":"8","section":"Support links"}' href="https://www.gov.uk/government/organisations/government-digital-service">
+         Government Digital Service
+        </a>
+       </li>
+      </ul>
+      <span data-ga4-link='{"event_name":"navigation","section":"Licence","index_section":"4","index_link":"1","index_section_count":"5","text":"Open Government Licence v3.0","index_total":"1","type":"footer"}' data-ga4-track-links-only="">
+       All content is available under the
+       <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">
+        Open Government Licence v3.0
+       </a>
+       , except where otherwise stated
+      </span>
+     </div>
+     <div data-ga4-link='{"event_name":"navigation","section":"Copyright","index_section":"5","index_link":"1","index_section_count":"5","text":"© Crown copyright","index_total":"1","type":"footer"}'>
+      <a href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/">
+       © Crown copyright
+      </a>
+     </div>
+    </div>
+   </div>
+  </footer>
+ </body>
+</html>

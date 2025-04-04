@@ -1,0 +1,1150 @@
+https://www.uradprace.cz/eures
+<html data-capo="" data-stencil-build="fo46q84x" lang="cs">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   EURES | ÚP
+  </title>
+  <meta content="EURES | ÚP" property="og:title"/>
+ </head>
+ <body>
+  <div id="__headless_web">
+   <div>
+    <div>
+     <header>
+      <!--[-->
+      <!--]-->
+      <div>
+       <gov-container>
+        <nav>
+         <ul>
+          <li>
+           <a href="https://www.mpsv.cz/" rel="nofollow noopener noreferrer">
+            MPSV
+           </a>
+          </li>
+          <li>
+           <a href="https://www.uradprace.cz/" rel="noopener noreferrer">
+            Úřad práce
+           </a>
+          </li>
+          <li>
+           <a href="https://www.cssz.cz/" rel="nofollow noopener noreferrer">
+            ČSSZ
+           </a>
+          </li>
+          <li>
+           <a href="https://www.suip.cz/" rel="nofollow noopener noreferrer">
+            SÚIP
+           </a>
+          </li>
+          <li>
+           <a href="https://www.uradprace.cz/eures" rel="nofollow noopener noreferrer">
+            EURES
+           </a>
+          </li>
+          <li>
+           <a href="https://www.mpsv.cz/dalsi-portaly" rel="nofollow noopener noreferrer">
+            Další portály
+           </a>
+          </li>
+         </ul>
+        </nav>
+       </gov-container>
+      </div>
+      <gov-container>
+       <div>
+        <a aria-label="Jdi na úvodní stránku" href="/">
+         <img alt="No description available"/>
+        </a>
+        <div>
+         <a href="/vyhledavani">
+          <gov-button accessible-label="Tlačítko, kterým se dostanete k vyhledávání" color="primary" hydrated="" size="l" type="base">
+           <!-- -->
+           <button aria-disabled="false" tabindex="0" type="button">
+            <gov-icon name="search" slot="icon-start" type="ui">
+            </gov-icon>
+            <span>
+             Vyhledat
+            </span>
+           </button>
+          </gov-button>
+         </a>
+         <gov-button color="primary" hydrated="" size="m" type="solid">
+          <!-- -->
+          <button aria-disabled="false" tabindex="0" type="button">
+           Menu
+           <gov-icon name="menu" slot="icon-end" type="ui">
+           </gov-icon>
+          </button>
+         </gov-button>
+         <a aria-label="Tlačítko sloužící k přihlášení" color="primary" href="/auth/login" size="l" type="base">
+          Přihlásit se
+         </a>
+         <!-- -->
+         <gov-form-control disabled="false" invalid="false" size="m" success="false" type="select">
+          <!-- -->
+          <div>
+           <gov-form-select size="m" value="/up-cz">
+            <!-- -->
+            <span>
+             <select aria-disabled="false" aria-required="false" id="GovSelect-70324082-cc53-8564-b737-a3fd1e7f969f">
+              <option selected="selected" value="/up-cz">
+               CZ
+              </option>
+              <option value="/up-en">
+               EN
+              </option>
+              <option value="/up-ru">
+               RU
+              </option>
+              <option value="/up-ua">
+               UA
+              </option>
+             </select>
+             <gov-icon name="chevron-down" type="components">
+             </gov-icon>
+            </span>
+           </gov-form-select>
+          </div>
+         </gov-form-control>
+        </div>
+       </div>
+      </gov-container>
+      <gov-container>
+       <nav aria-label="Hlavní navigace webu">
+        <ul role="menubar">
+         <li>
+          <a aria-expanded="false" aria-haspopup="true" href="https://www.uradprace.cz/uvod" level="1" rel="noopener noreferrer" role="menuitem" size="l">
+           Úřad práce ČR
+           <gov-icon name="chevron-down" size="xl" slot="icon-end" type="ui">
+           </gov-icon>
+          </a>
+          <!-- -->
+         </li>
+         <li>
+          <a aria-expanded="false" aria-haspopup="true" href="https://www.uradprace.cz/zamestnanost" level="1" rel="noopener noreferrer" role="menuitem" size="l">
+           Zaměstnanost
+           <gov-icon name="chevron-down" size="xl" slot="icon-end" type="ui">
+           </gov-icon>
+          </a>
+          <!-- -->
+         </li>
+         <li>
+          <a aria-expanded="false" aria-haspopup="true" href="https://www.uradprace.cz/socialni-tematika" level="1" rel="noopener noreferrer" role="menuitem" size="l">
+           Sociální tematika
+           <gov-icon name="chevron-down" size="xl" slot="icon-end" type="ui">
+           </gov-icon>
+          </a>
+          <!-- -->
+         </li>
+         <li>
+          <a aria-expanded="false" aria-haspopup="true" href="https://www.uradprace.cz/formulare" level="1" rel="noopener noreferrer" role="menuitem" size="l">
+           Formuláře
+           <!-- -->
+          </a>
+          <!-- -->
+         </li>
+         <li>
+          <a aria-expanded="false" aria-haspopup="true" href="https://www.uradprace.cz/kontakty-na-pobocky" level="1" rel="noopener noreferrer" role="menuitem" size="l">
+           Kontakty
+           <gov-icon name="chevron-down" size="xl" slot="icon-end" type="ui">
+           </gov-icon>
+          </a>
+          <!-- -->
+         </li>
+         <li>
+          <a aria-expanded="false" aria-haspopup="true" href="https://www.uradprace.cz/informace-pro-starosty" level="1" rel="noopener noreferrer" role="menuitem" size="l">
+           Informace pro starosty
+           <!-- -->
+          </a>
+          <!-- -->
+         </li>
+         <!-- -->
+        </ul>
+       </nav>
+      </gov-container>
+     </header>
+     <main>
+      <!--[-->
+      <gov-container>
+       <div wrapped-heading="">
+        <div>
+         <span>
+          <a href="https://www.uradprace.cz/uvod" rel="noopener noreferrer">
+           <gov-icon name="home" size="xl" type="ui">
+           </gov-icon>
+          </a>
+          <gov-icon name="chevron-right" size="xl" type="ui">
+          </gov-icon>
+         </span>
+         <!-- -->
+         <span>
+          EURES
+         </span>
+        </div>
+        <div>
+         <!-- -->
+         <h1>
+          EURES
+         </h1>
+        </div>
+       </div>
+       <div>
+        <!-- -->
+        <section>
+         <!-- -->
+         <section>
+          <nav>
+           <ul>
+            <li role="none">
+             <a clickable="" href="https://www.uradprace.cz/kalendar-akci" orientation="vertical" rel="noopener noreferrer" size="l">
+              <div>
+               <div>
+                <div>
+                 <!-- -->
+                 <div>
+                  Všechny nadcházející akce
+                  <!-- -->
+                  <!-- -->
+                 </div>
+                </div>
+                <!-- -->
+               </div>
+               <span>
+                <!-- -->
+                <!-- -->
+                <gov-icon name="button-forward" type="ui">
+                </gov-icon>
+               </span>
+              </div>
+             </a>
+            </li>
+           </ul>
+          </nav>
+         </section>
+        </section>
+        <section>
+         <div>
+          <div>
+           <h2>
+            Uchazeči o práci
+           </h2>
+          </div>
+         </div>
+         <section>
+          <nav>
+           <ul>
+            <li role="none">
+             <a clickable="" href="https://www.uradprace.cz/hledate-zamestnani-v-eu-ehp-" orientation="vertical" rel="noopener noreferrer" size="l">
+              <div>
+               <div>
+                <div>
+                 <!-- -->
+                 <div>
+                  Hledáte práci v EU, Norsku, Lichtenštejnsku, na Islandu, nebo ve Švýcarsku?
+                  <!-- -->
+                  <!-- -->
+                 </div>
+                </div>
+                <div>
+                 Nabídka volných pracovních míst v EU, Norsku, Lichtenštejnsku, na Islandu a ve Švýcarsku
+                </div>
+               </div>
+               <span>
+                <!-- -->
+                <!-- -->
+                <gov-icon name="button-forward" type="ui">
+                </gov-icon>
+               </span>
+              </div>
+             </a>
+            </li>
+            <li role="none">
+             <a clickable="" href="https://www.uradprace.cz/hledate-zamestnani-v-cr-" orientation="vertical" rel="noopener noreferrer" size="l">
+              <div>
+               <div>
+                <div>
+                 <!-- -->
+                 <div>
+                  Hledáte práci v ČR
+                  <!-- -->
+                  <!-- -->
+                 </div>
+                </div>
+                <div>
+                 Informace pro uchazeče o zaměstnání na území ČR
+                </div>
+               </div>
+               <span>
+                <!-- -->
+                <!-- -->
+                <gov-icon name="button-forward" type="ui">
+                </gov-icon>
+               </span>
+              </div>
+             </a>
+            </li>
+            <li role="none">
+             <a clickable="" href="https://www.uradprace.cz/odjizdite-pracovat-do-eu-ehp-" orientation="vertical" rel="noopener noreferrer" size="l">
+              <div>
+               <div>
+                <div>
+                 <!-- -->
+                 <div>
+                  Pracovní podmínky v EU, Norsku, Lichtenštejnsku, na Islandu a ve Švýcarsku
+                  <!-- -->
+                  <!-- -->
+                 </div>
+                </div>
+                <div>
+                 Informace o pracovních a životních podmínkách v EU, Norsku, Lichtenštejnsku, na Islandu a ve Švýcarsku
+                </div>
+               </div>
+               <span>
+                <!-- -->
+                <!-- -->
+                <gov-icon name="button-forward" type="ui">
+                </gov-icon>
+               </span>
+              </div>
+             </a>
+            </li>
+            <li role="none">
+             <a clickable="" href="https://www.uradprace.cz/projekty-na-podporu-mobility" orientation="vertical" rel="noopener noreferrer" size="l">
+              <div>
+               <div>
+                <div>
+                 <!-- -->
+                 <div>
+                  Projekty na podporu mobility
+                  <!-- -->
+                  <!-- -->
+                 </div>
+                </div>
+                <!-- -->
+               </div>
+               <span>
+                <!-- -->
+                <!-- -->
+                <gov-icon name="button-forward" type="ui">
+                </gov-icon>
+               </span>
+              </div>
+             </a>
+            </li>
+            <li role="none">
+             <a clickable="" href="https://www.uradprace.cz/online-burzy-prace-v-eu" orientation="vertical" rel="noopener noreferrer" size="l">
+              <div>
+               <div>
+                <div>
+                 <!-- -->
+                 <div>
+                  Online burzy práce v EU
+                  <!-- -->
+                  <!-- -->
+                 </div>
+                </div>
+                <div>
+                 Informace o nabídce a možnostech online burzy práce v EU.
+                </div>
+               </div>
+               <span>
+                <!-- -->
+                <!-- -->
+                <gov-icon name="button-forward" type="ui">
+                </gov-icon>
+               </span>
+              </div>
+             </a>
+            </li>
+           </ul>
+          </nav>
+         </section>
+        </section>
+        <section>
+         <div>
+          <div>
+           <h2>
+            Zaměstnavatelé
+           </h2>
+          </div>
+         </div>
+         <section>
+          <nav>
+           <ul>
+            <li role="none">
+             <a clickable="" href="https://www.uradprace.cz/sluzby-pro-zamestnavatele" orientation="vertical" rel="noopener noreferrer" size="l">
+              <div>
+               <div>
+                <div>
+                 <!-- -->
+                 <div>
+                  Služby pro zaměstnavatele
+                  <!-- -->
+                  <!-- -->
+                 </div>
+                </div>
+                <div>
+                 Zveřejnění nabídky práce, distribuce volných míst a poradenství
+                </div>
+               </div>
+               <span>
+                <!-- -->
+                <!-- -->
+                <gov-icon name="button-forward" type="ui">
+                </gov-icon>
+               </span>
+              </div>
+             </a>
+            </li>
+            <li role="none">
+             <a clickable="" href="https://www.uradprace.cz/zverejneni-nabidky-prace" orientation="vertical" rel="noopener noreferrer" size="l">
+              <div>
+               <div>
+                <div>
+                 <!-- -->
+                 <div>
+                  Zadávání volných míst
+                  <!-- -->
+                  <!-- -->
+                 </div>
+                </div>
+                <div>
+                 Vložení volného místa a jeho registrace na Úřadu práce ČR
+                </div>
+               </div>
+               <span>
+                <!-- -->
+                <!-- -->
+                <gov-icon name="button-forward" type="ui">
+                </gov-icon>
+               </span>
+              </div>
+             </a>
+            </li>
+            <li role="none">
+             <a clickable="" href="https://www.uradprace.cz/distribuce-volnych-mist" orientation="vertical" rel="noopener noreferrer" size="l">
+              <div>
+               <div>
+                <div>
+                 <!-- -->
+                 <div>
+                  Šíření Vaší nabídky práce do zemí EU, Norska, Lichtenštejnska, Islandu a Švýcarska
+                  <!-- -->
+                  <!-- -->
+                 </div>
+                </div>
+                <div>
+                 Šíření volných pracovních míst prostřednictvím úřadů práce zemí EU, Norska, Lichtenštejnska, Islandu a Švýcarska
+                </div>
+               </div>
+               <span>
+                <!-- -->
+                <!-- -->
+                <gov-icon name="button-forward" type="ui">
+                </gov-icon>
+               </span>
+              </div>
+             </a>
+            </li>
+            <li role="none">
+             <a clickable="" href="https://www.uradprace.cz/partnerstvi-a-clenstvi" orientation="vertical" rel="noopener noreferrer" size="l">
+              <div>
+               <div>
+                <div>
+                 <!-- -->
+                 <div>
+                  Partnerství a členství v síti EURES
+                  <!-- -->
+                  <!-- -->
+                 </div>
+                </div>
+                <div>
+                 Otevřená výzva pro organizace, které zákonným způsobem působí na území České republiky.
+                </div>
+               </div>
+               <span>
+                <!-- -->
+                <!-- -->
+                <gov-icon name="button-forward" type="ui">
+                </gov-icon>
+               </span>
+              </div>
+             </a>
+            </li>
+           </ul>
+          </nav>
+         </section>
+        </section>
+        <section>
+         <div>
+          <div>
+           <h2>
+            Kontakty
+           </h2>
+          </div>
+         </div>
+         <section>
+          <nav>
+           <ul>
+            <li role="none">
+             <a clickable="" href="https://www.uradprace.cz/kontakty-na-eures-poradce" orientation="vertical" rel="noopener noreferrer" size="l">
+              <div>
+               <div>
+                <div>
+                 <!-- -->
+                 <div>
+                  Kontakty na EURES poradce a specialisty pro cizince z třetích zemí (3Z)
+                  <!-- -->
+                  <!-- -->
+                 </div>
+                </div>
+                <div>
+                 Seznam EURES poradců a kontaktních osob úřadů práce
+                </div>
+               </div>
+               <span>
+                <!-- -->
+                <span>
+                 Spustit aplikaci
+                </span>
+                <gov-icon name="button-forward" type="ui">
+                </gov-icon>
+               </span>
+              </div>
+             </a>
+            </li>
+            <li role="none">
+             <a clickable="" href="https://www.uradprace.cz/dotaz-na-eures-sluzby" orientation="vertical" rel="noopener noreferrer" size="l">
+              <div>
+               <div>
+                <div>
+                 <!-- -->
+                 <div>
+                  Dotaz na EURES služby
+                  <!-- -->
+                  <!-- -->
+                 </div>
+                </div>
+                <div>
+                 Zeptejte se EURES poradců a specialistů pro cizince z třetích zemí
+                </div>
+               </div>
+               <span>
+                <!-- -->
+                <span>
+                 Spustit aplikaci
+                </span>
+                <gov-icon name="button-forward" type="ui">
+                </gov-icon>
+               </span>
+              </div>
+             </a>
+            </li>
+           </ul>
+          </nav>
+         </section>
+        </section>
+        <!-- -->
+        <section>
+         <a clickable="" href="https://www.uradprace.cz/eures-kdo-jsme" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              Služba EURES v zemích Evropské unie, v Norsku, Lichtenštejnsku, na Islandu a ve Švýcarsku
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+         <a clickable="" href="https://www.uradprace.cz/hledate-zamestnani-v-eu-ehp-" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              EURES - aplikace - rozcestník
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+         <a clickable="" href="https://www.uradprace.cz/odjizdite-pracovat-do-eu-ehp-" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              Odjíždíte pracovat do zemí EURES?
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+         <a clickable="" href="https://www.uradprace.cz/vracite-se-zpet-do-cr-" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              Co dělat při ztrátě či po ukončení zaměstnání v EU, EHP a Švýcarsku?
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+         <a clickable="" href="https://www.uradprace.cz/uzitecne-odkazy-1" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              Užitečné odkazy a videa
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+         <a clickable="" href="https://www.uradprace.cz/davky-v-nezamestnanosti-eu-ehp-svycarsko-u1-u2" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              Podpora v nezaměstnanosti migrujících osob v rámci EU, Norska, Lichtenštejnska, Islandu a Švýcarska
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+         <a clickable="" href="https://www.uradprace.cz/hledate-zamestnani-v-cr-" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              Hledáte zaměstnání v České republice?
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+         <a clickable="" href="https://www.uradprace.cz/sluzby-pro-zamestnavatele" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              Služby sítě EURES pro zaměstnavatele
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+         <a clickable="" href="https://www.uradprace.cz/kontakty-na-eures-poradce" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              Kontakty na EURES poradce
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+         <a clickable="" href="https://www.uradprace.cz/dotaz-na-eures-sluzby" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              EURES Dotaz
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+         <a clickable="" href="https://www.uradprace.cz/info-k-brexitu" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              Informace k Brexitu
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+         <a clickable="" href="https://www.uradprace.cz/partnerstvi-a-clenstvi" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              Partnerství a členství v síti EURES
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+         <a clickable="" href="https://www.uradprace.cz/projekty-na-podporu-mobility" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              EURES
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+         <a clickable="" href="https://www.uradprace.cz/online-burzy-prace-v-eu" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              Online burzy práce v EU
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+         <a clickable="" href="https://www.uradprace.cz/europas" orientation="horizontal" rel="noopener noreferrer" size="m">
+          <div>
+           <div>
+            <div>
+             <!-- -->
+             <div>
+              EUROPASS
+              <!-- -->
+              <!-- -->
+             </div>
+            </div>
+            <!-- -->
+           </div>
+           <span>
+            <!-- -->
+            <!-- -->
+            <gov-icon name="button-forward" type="ui">
+            </gov-icon>
+           </span>
+          </div>
+         </a>
+        </section>
+       </div>
+      </gov-container>
+      <!--]-->
+     </main>
+     <!--[-->
+     <footer>
+      <gov-container>
+       <div>
+        <div>
+         <img/>
+         <nav>
+          <span>
+           Co je nového
+          </span>
+          <ul>
+           <li>
+            <a href="https://www.uradprace.cz/aktuality" rel="noopener noreferrer" size="s">
+             Aktuality
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uradprace.cz/pro-media" rel="noopener noreferrer" size="s">
+             Pro média
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uradprace.cz/moznosti-prihlasovani" rel="noopener noreferrer" size="s">
+             Možnosti přihlášení
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uradprace.cz/seznam-rss-kanalu" rel="noopener noreferrer" size="s">
+             RSS
+            </a>
+           </li>
+          </ul>
+         </nav>
+         <nav>
+          <span>
+           Úřad práce
+          </span>
+          <ul>
+           <li>
+            <a href="https://www.uradprace.cz/generalni-reditelstvi-1" rel="noopener noreferrer" size="s">
+             Generální ředitelství
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uradprace.cz/kontakty-na-pracoviste-a-pobocky" rel="noopener noreferrer" size="s">
+             Krajské pobočky
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uradprace.cz/socialni-poradce" rel="noopener noreferrer" size="s">
+             Sociální poradce
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uradprace.cz/uredni-deska" rel="noopener noreferrer" size="s">
+             Úřední deska
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uradprace.cz/projekty-na-podporu-mobility" rel="noopener noreferrer" size="s">
+             EURES
+            </a>
+           </li>
+          </ul>
+         </nav>
+         <nav>
+          <span>
+           Další portály
+          </span>
+          <ul>
+           <li>
+            <a href="https://jenda.mpsv.cz/" rel="noopener noreferrer" size="s">
+             Jenda - klientská zóna
+            </a>
+           </li>
+           <li>
+            <a href="https://www.mpsv.cz/" rel="noopener noreferrer" size="s">
+             MPSV
+            </a>
+           </li>
+           <li>
+            <a href="https://www.cssz.cz/" rel="noopener noreferrer" size="s">
+             Česká správa sociálního zabezpečení
+            </a>
+           </li>
+           <li>
+            <a href="https://www.suip.cz/" rel="noopener noreferrer" size="s">
+             Státní úřad inspekce práce
+            </a>
+           </li>
+           <li>
+            <a href="https://www.esfcr.cz/" rel="noopener noreferrer" size="s">
+             Operační program Zaměstnanost
+            </a>
+           </li>
+          </ul>
+         </nav>
+        </div>
+        <div>
+         <a href="https://www.facebook.com/uradprace.cr" rel="noopener noreferrer" size="xl" target="_blank">
+          <gov-icon name="facebook" type="custom">
+          </gov-icon>
+         </a>
+         <!-- -->
+         <a href="https://www.youtube.com/channel/UCo0EprOghpnR5S1VEOKpQNA" rel="noopener noreferrer" size="xl" target="_blank">
+          <gov-icon name="youtube" type="custom">
+          </gov-icon>
+         </a>
+         <a href="https://www.instagram.com/uradprace.cr" rel="noopener noreferrer" size="xl" target="_blank">
+          <gov-icon name="instagram" type="custom">
+          </gov-icon>
+         </a>
+        </div>
+        <nav>
+         <ul>
+          <li>
+           <a href="https://www.uradprace.cz/prohlaseni-o-pristupnosti" rel="noopener noreferrer" size="s">
+            Prohlášení o přístupnosti
+           </a>
+          </li>
+          <li>
+           <a href="https://www.uradprace.cz/mapa-stranek" rel="noopener noreferrer" size="s">
+            Mapa stránek
+           </a>
+          </li>
+          <li>
+           <a href="https://www.uradprace.cz/cookies1" rel="noopener noreferrer" size="s">
+            Cookies
+           </a>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </gov-container>
+      <!--[-->
+      <div>
+       <gov-container>
+        <h2>
+         Můžeme si u vás uložit cookies?
+        </h2>
+        <p>
+         Co že to znamená? Cookies jsou malé datové soubory, které slouží např. k tomu, aby si web pamatoval vaše nastavení a to, co vás zajímá, nebo abychom jej zlepšovali . Pro ukládání různých typů cookies od vás potřebujeme souhlas. Web bude fungovat i bez souhlasu, s ním ale o něco lépe.
+        </p>
+        <div>
+         <gov-button color="primary" hydrated="" size="m" type="solid">
+          <!-- -->
+          <button aria-disabled="false" tabindex="0" type="button">
+           Souhlasím se všemi
+          </button>
+         </gov-button>
+         <gov-button color="primary" hydrated="" size="m" type="outlined">
+          <!-- -->
+          <button aria-disabled="false" tabindex="0" type="button">
+           Odmítnout všechny
+          </button>
+         </gov-button>
+         <gov-button color="primary" hydrated="" size="m" type="base">
+          <!-- -->
+          <button aria-disabled="false" tabindex="0" type="button">
+           Podrobné nastavení
+          </button>
+         </gov-button>
+        </div>
+       </gov-container>
+      </div>
+      <gov-dialog hydrated="">
+       <!-- -->
+       <dialog aria-describedby="GovDialogContent-35d67548-de38-7972-3e4a-7d79c60f0bfb" aria-hidden="true" aria-labelledby="GovDialogLabel-ec2b7a5e-3fc7-3108-876e-37b6df655259" aria-modal="true" hidden="" role="dialog" tabindex="-1">
+        <div>
+         <div>
+          <span id="GovDialogLabel-ec2b7a5e-3fc7-3108-876e-37b6df655259">
+           <h2 slot="title">
+            Nastavení souhlasů s cookies
+           </h2>
+          </span>
+          <gov-button color="primary" hydrated="" size="m" type="base">
+           <!-- -->
+           <button aria-disabled="false" aria-label="Zavřít okno" tabindex="0" type="button">
+            <gov-icon name="x-lg" slot="icon-start" type="components">
+            </gov-icon>
+           </button>
+          </gov-button>
+         </div>
+         <div id="GovDialogContent-35d67548-de38-7972-3e4a-7d79c60f0bfb">
+          <p>
+           Při vašich návštěvách webů z domény .mpsv.cz používáme níže uvedené typy cookies. Vy nám udělujete souhlas k použití všech, nebo jen vybraných typů. Vaše dříve udělené souhlasy zde můžete upravit.
+          </p>
+          <ul>
+           <li>
+            <gov-form-checkbox checked="" disabled="" hydrated="" label="Nezbytné cookies" size="m">
+             <!-- -->
+             <input aria-checked="true" aria-disabled="true" aria-required="false" disabled="" id="GovCheckbox-3498cba8-eacc-489f-413a-1ff679ae3812" type="checkbox"/>
+             <span>
+              <gov-form-label identifier="GovCheckbox-3498cba8-eacc-489f-413a-1ff679ae3812" required="false" size="m" slot="label">
+               <!-- -->
+               <label for="GovCheckbox-3498cba8-eacc-489f-413a-1ff679ae3812">
+                Nezbytné cookies
+               </label>
+              </gov-form-label>
+              <gov-icon name="check-lg" type="components">
+              </gov-icon>
+              <gov-icon name="dash-lg" type="components">
+              </gov-icon>
+             </span>
+            </gov-form-checkbox>
+            <p>
+             Bez těchto cookies stránky nefungují správně, po zavření prohlížeče se automaticky smažou (např. správné zobrazení stránky, session id, nastavení souhlasů).
+            </p>
+           </li>
+           <li>
+            <gov-form-checkbox hydrated="" label="Statistické a výkonnostní cookie" size="m">
+             <!-- -->
+             <input aria-checked="false" aria-disabled="false" aria-required="false" id="GovCheckbox-661794d2-1fb4-4f5f-e58d-e7c97f330896" type="checkbox"/>
+             <span>
+              <gov-form-label identifier="GovCheckbox-661794d2-1fb4-4f5f-e58d-e7c97f330896" required="false" size="m" slot="label">
+               <!-- -->
+               <label for="GovCheckbox-661794d2-1fb4-4f5f-e58d-e7c97f330896">
+                Statistické a výkonnostní cookie
+               </label>
+              </gov-form-label>
+              <gov-icon name="check-lg" type="components">
+              </gov-icon>
+              <gov-icon name="dash-lg" type="components">
+              </gov-icon>
+             </span>
+            </gov-form-checkbox>
+            <p>
+             Pomáhají anonymně zjišťovat, jaké stránky na webu jsou oblíbené a jak je uživatelé využívají, tyto informace slouží k dalšímu zlepšování a úpravám stránek.
+            </p>
+           </li>
+           <li>
+            <gov-form-checkbox hydrated="" label="Marketingové cookies" size="m">
+             <!-- -->
+             <input aria-checked="false" aria-disabled="false" aria-required="false" id="GovCheckbox-2f359a98-1177-ac3d-fedc-4b38aa122579" type="checkbox"/>
+             <span>
+              <gov-form-label identifier="GovCheckbox-2f359a98-1177-ac3d-fedc-4b38aa122579" required="false" size="m" slot="label">
+               <!-- -->
+               <label for="GovCheckbox-2f359a98-1177-ac3d-fedc-4b38aa122579">
+                Marketingové cookies
+               </label>
+              </gov-form-label>
+              <gov-icon name="check-lg" type="components">
+              </gov-icon>
+              <gov-icon name="dash-lg" type="components">
+              </gov-icon>
+             </span>
+            </gov-form-checkbox>
+            <p>
+             Zjišťují, jaký typ marketingové propagace uživatele oslovuje a umožňují zobrazovat mu ty, které jsou více relevantní.
+            </p>
+           </li>
+          </ul>
+          <p>
+           Více informací o cookies a zpracování dat naleznete v
+           <a href="/cookies">
+            Zpracování osobních údajů a cookies.
+           </a>
+          </p>
+          <gov-button color="primary" hydrated="" size="m" type="solid">
+           <!-- -->
+           <button aria-disabled="false" tabindex="0" type="button">
+            Uložit nastavení
+           </button>
+          </gov-button>
+         </div>
+        </div>
+       </dialog>
+      </gov-dialog>
+      <!--]-->
+     </footer>
+     <!-- -->
+     <!--]-->
+    </div>
+   </div>
+  </div>
+  <div id="teleports">
+  </div>
+ </body>
+</html>

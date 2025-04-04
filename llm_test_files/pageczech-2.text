@@ -1,0 +1,784 @@
+https://www.uradprace.cz/generalni-reditelstvi-1
+<html data-capo="" data-stencil-build="nf2ofyd3" lang="cs">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   Úřad práce České republiky - generální ředitelství | ÚP
+  </title>
+  <meta content="Úřad práce České republiky - generální ředitelství | ÚP" property="og:title"/>
+ </head>
+ <body>
+  <div id="__headless_web">
+   <div>
+    <div>
+     <header>
+      <!--[-->
+      <!--]-->
+      <div>
+       <gov-container>
+        <nav>
+         <ul>
+          <li>
+           <a href="https://www.mpsv.cz/" rel="nofollow noopener noreferrer">
+            MPSV
+           </a>
+          </li>
+          <li>
+           <a href="https://www.uradprace.cz/" rel="noopener noreferrer">
+            Úřad práce
+           </a>
+          </li>
+          <li>
+           <a href="https://www.cssz.cz/" rel="nofollow noopener noreferrer">
+            ČSSZ
+           </a>
+          </li>
+          <li>
+           <a href="https://www.suip.cz/" rel="nofollow noopener noreferrer">
+            SÚIP
+           </a>
+          </li>
+          <li>
+           <a href="https://www.uradprace.cz/eures" rel="nofollow noopener noreferrer">
+            EURES
+           </a>
+          </li>
+          <li>
+           <a href="https://www.mpsv.cz/dalsi-portaly" rel="nofollow noopener noreferrer">
+            Další portály
+           </a>
+          </li>
+         </ul>
+        </nav>
+       </gov-container>
+      </div>
+      <gov-container>
+       <div>
+        <a aria-label="Jdi na úvodní stránku" href="/">
+         <img alt="No description available"/>
+        </a>
+        <div>
+         <a href="/vyhledavani">
+          <gov-button accessible-label="Tlačítko, kterým se dostanete k vyhledávání" color="primary" hydrated="" size="l" type="base">
+           <!-- -->
+           <button aria-disabled="false" tabindex="0" type="button">
+            <gov-icon name="search" slot="icon-start" type="ui">
+            </gov-icon>
+            <span>
+             Vyhledat
+            </span>
+           </button>
+          </gov-button>
+         </a>
+         <gov-button color="primary" hydrated="" size="m" type="solid">
+          <!-- -->
+          <button aria-disabled="false" tabindex="0" type="button">
+           Menu
+           <gov-icon name="menu" slot="icon-end" type="ui">
+           </gov-icon>
+          </button>
+         </gov-button>
+         <a aria-label="Tlačítko sloužící k přihlášení" color="primary" href="/auth/login" size="l" type="base">
+          Přihlásit se
+         </a>
+         <!-- -->
+         <gov-form-control disabled="false" invalid="false" size="m" success="false" type="select">
+          <!-- -->
+          <div>
+           <gov-form-select size="m" value="/up-cz">
+            <!-- -->
+            <span>
+             <select aria-disabled="false" aria-required="false" id="GovSelect-9cb8f468-27eb-2138-cf9b-9062c44276da">
+              <option selected="selected" value="/up-cz">
+               CZ
+              </option>
+              <option value="/up-en">
+               EN
+              </option>
+              <option value="/up-ru">
+               RU
+              </option>
+              <option value="/up-ua">
+               UA
+              </option>
+             </select>
+             <gov-icon name="chevron-down" type="components">
+             </gov-icon>
+            </span>
+           </gov-form-select>
+          </div>
+         </gov-form-control>
+        </div>
+       </div>
+      </gov-container>
+      <gov-container>
+       <nav aria-label="Hlavní navigace webu">
+        <ul role="menubar">
+         <li>
+          <a aria-expanded="false" aria-haspopup="true" href="https://www.uradprace.cz/uvod" level="1" rel="noopener noreferrer" role="menuitem" size="l">
+           Úřad práce ČR
+           <gov-icon name="chevron-down" size="xl" slot="icon-end" type="ui">
+           </gov-icon>
+          </a>
+          <!-- -->
+         </li>
+         <li>
+          <a aria-expanded="false" aria-haspopup="true" href="https://www.uradprace.cz/zamestnanost" level="1" rel="noopener noreferrer" role="menuitem" size="l">
+           Zaměstnanost
+           <gov-icon name="chevron-down" size="xl" slot="icon-end" type="ui">
+           </gov-icon>
+          </a>
+          <!-- -->
+         </li>
+         <li>
+          <a aria-expanded="false" aria-haspopup="true" href="https://www.uradprace.cz/socialni-tematika" level="1" rel="noopener noreferrer" role="menuitem" size="l">
+           Sociální tematika
+           <gov-icon name="chevron-down" size="xl" slot="icon-end" type="ui">
+           </gov-icon>
+          </a>
+          <!-- -->
+         </li>
+         <li>
+          <a aria-expanded="false" aria-haspopup="true" href="https://www.uradprace.cz/formulare" level="1" rel="noopener noreferrer" role="menuitem" size="l">
+           Formuláře
+           <!-- -->
+          </a>
+          <!-- -->
+         </li>
+         <li>
+          <a aria-expanded="false" aria-haspopup="true" href="https://www.uradprace.cz/kontakty-na-pobocky" level="1" rel="noopener noreferrer" role="menuitem" size="l">
+           Kontakty
+           <gov-icon name="chevron-down" size="xl" slot="icon-end" type="ui">
+           </gov-icon>
+          </a>
+          <!-- -->
+         </li>
+         <li>
+          <a aria-expanded="false" aria-haspopup="true" href="https://www.uradprace.cz/informace-pro-starosty" level="1" rel="noopener noreferrer" role="menuitem" size="l">
+           Informace pro starosty
+           <!-- -->
+          </a>
+          <!-- -->
+         </li>
+         <!-- -->
+        </ul>
+       </nav>
+      </gov-container>
+     </header>
+     <main>
+      <!--[-->
+      <gov-container>
+       <div wrapped-heading="">
+        <div>
+         <span>
+          <a href="https://www.uradprace.cz/uvod" rel="noopener noreferrer">
+           <gov-icon name="home" size="xl" type="ui">
+           </gov-icon>
+          </a>
+          <gov-icon name="chevron-right" size="xl" type="ui">
+          </gov-icon>
+         </span>
+         <span>
+          <a href="https://www.uradprace.cz/urad-prace-cr" rel="noopener noreferrer">
+           <span>
+            Úřad práce ČR
+           </span>
+          </a>
+          <gov-icon name="chevron-right" size="xl" type="ui">
+          </gov-icon>
+         </span>
+         <!-- -->
+         <span>
+          Úřad práce České republiky - generální ředitelství
+         </span>
+        </div>
+        <div>
+         <!-- -->
+         <h1>
+          Úřad práce České republiky - generální ředitelství
+         </h1>
+        </div>
+       </div>
+       <div>
+        <div>
+         <div>
+          Poslední aktualizace:
+          <gov-tag color="neutral" size="m" type="subtle">
+           <!-- -->
+           <span>
+            <gov-icon name="calendar" slot="icon-start" type="ui">
+            </gov-icon>
+            26. prosince 2020
+           </span>
+          </gov-tag>
+         </div>
+        </div>
+        <div>
+         <article>
+          <div>
+           <div>
+            Poslední aktualizace:
+            <gov-tag color="neutral" size="m" type="subtle">
+             <!-- -->
+             <span>
+              <gov-icon name="calendar" slot="icon-start" type="ui">
+              </gov-icon>
+              26. prosince 2020
+             </span>
+            </gov-tag>
+           </div>
+          </div>
+          <section>
+           <!-- -->
+           <div>
+            <p>
+             <img alt="generální ředitelství Úřadu práce ČR"/>
+            </p>
+            <h3>
+             Kontaktní informace
+            </h3>
+            <h4>
+             Adresa
+            </h4>
+            <p>
+             Dobrovského 1278/25
+             <br/>
+             170 00 Praha 7 - Holešovice
+            </p>
+            <p>
+             <br/>
+             <strong>
+              IČ:
+             </strong>
+             724 96 991
+            </p>
+            <p>
+             <strong>
+              Spojovatelka, telefon:
+             </strong>
+             <a href="tel:+420950180111">
+              +420 950 180 111
+             </a>
+             <br/>
+             <strong>
+              Datová schránka:
+             </strong>
+             7hazk97
+            </p>
+            <p>
+             <strong>
+              <a href="bankovni-spojeni#GR">
+               Bankovní spojení
+              </a>
+             </strong>
+            </p>
+            <p>
+             <strong>
+              Elektronická podatelna:
+             </strong>
+             <a href="mailto:podatelna.gr@uradprace.cz">
+              podatelna.gr@uradprace.cz
+             </a>
+             <br/>
+             Podmínky přijetí elektronického podání naleznete
+             <br/>
+             na stránce
+             <a href="elektronicka-podatelna">
+              Elektronická podatelna
+             </a>
+            </p>
+            <h4>
+             <strong>
+              Podatelna GŘ
+             </strong>
+             <br/>
+             Dobrovského 1278/25
+             <br/>
+             170 00 Praha 7 - Holešovice
+            </h4>
+            <h4>
+             <strong>
+              Úřední hodiny
+             </strong>
+            </h4>
+            <table border="0" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td>
+                Pondělí
+               </td>
+               <td>
+                8 - 13
+               </td>
+               <td>
+                14 - 17
+               </td>
+              </tr>
+              <tr>
+               <td>
+                Úterý
+               </td>
+               <td>
+                8 - 11
+               </td>
+               <td>
+               </td>
+              </tr>
+              <tr>
+               <td>
+                Středa
+               </td>
+               <td>
+                8 - 13
+               </td>
+               <td>
+                14 - 17
+               </td>
+              </tr>
+              <tr>
+               <td>
+                Čtvrtek
+               </td>
+               <td>
+                8 - 11
+               </td>
+               <td>
+               </td>
+              </tr>
+              <tr>
+               <td>
+                Pátek
+               </td>
+               <td>
+                8 - 11
+               </td>
+               <td>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+            <h4>
+             Úřední deska
+            </h4>
+            <p>
+             Úřední deska Úřadu práce České republiky je veřejnosti přístupná v elektronické formě na adrese
+             <a href="uredni-deska">
+              /web/cz/uredni-deska
+             </a>
+             (dálkový přístup). Umístění písemností na úřední desku se provádí elektronicky. Na adrese generálního ředitelství je 24 hodin denně veřejně přístupné technické zařízení umožňující elektronický přístup ke zveřejněným písemnostem.
+            </p>
+            <h4>
+             NOVINÁŘSKÉ DOTAZY
+             <br/>
+             E-MAIL:
+             <a href="mailto:tiskove@uradprace.cz">
+              TISKOVE@URADPRACE.CZ
+             </a>
+            </h4>
+            <h4>
+             <b>
+              Tel.: +420 608 194 194
+             </b>
+            </h4>
+            <h4>
+            </h4>
+           </div>
+          </section>
+          <!-- -->
+          <!-- -->
+          <section>
+           <a clickable="" href="https://www.uradprace.cz/generalni-reditel" orientation="horizontal" rel="noopener noreferrer" size="m">
+            <div>
+             <div>
+              <div>
+               <!-- -->
+               <div>
+                Generální ředitel Úřadu práce ČR
+                <!-- -->
+                <!-- -->
+               </div>
+              </div>
+              <!-- -->
+             </div>
+             <span>
+              <!-- -->
+              <!-- -->
+              <gov-icon name="button-forward" type="ui">
+              </gov-icon>
+             </span>
+            </div>
+           </a>
+           <a clickable="" href="https://www.uradprace.cz/organizacni-struktura" orientation="horizontal" rel="noopener noreferrer" size="m">
+            <div>
+             <div>
+              <div>
+               <!-- -->
+               <div>
+                Organizační struktura ÚP ČR a kontakty na vedení generálního ředitelství
+                <!-- -->
+                <!-- -->
+               </div>
+              </div>
+              <!-- -->
+             </div>
+             <span>
+              <!-- -->
+              <!-- -->
+              <gov-icon name="button-forward" type="ui">
+              </gov-icon>
+             </span>
+            </div>
+           </a>
+           <a clickable="" href="https://www.uradprace.cz/rozpocet1" orientation="horizontal" rel="noopener noreferrer" size="m">
+            <div>
+             <div>
+              <div>
+               <!-- -->
+               <div>
+                Rozpočet
+                <!-- -->
+                <!-- -->
+               </div>
+              </div>
+              <!-- -->
+             </div>
+             <span>
+              <!-- -->
+              <!-- -->
+              <gov-icon name="button-forward" type="ui">
+              </gov-icon>
+             </span>
+            </div>
+           </a>
+           <a clickable="" href="https://www.uradprace.cz/kariera-na-up-cr-generalni-reditelstvi" orientation="horizontal" rel="noopener noreferrer" size="m">
+            <div>
+             <div>
+              <div>
+               <!-- -->
+               <div>
+                Kariéra na ÚP ČR Generální ředitelství
+                <!-- -->
+                <!-- -->
+               </div>
+              </div>
+              <!-- -->
+             </div>
+             <span>
+              <!-- -->
+              <!-- -->
+              <gov-icon name="button-forward" type="ui">
+              </gov-icon>
+             </span>
+            </div>
+           </a>
+           <a clickable="" href="https://www.uradprace.cz/elektronicka-podatelna" orientation="horizontal" rel="noopener noreferrer" size="m">
+            <div>
+             <div>
+              <div>
+               <!-- -->
+               <div>
+                Elektronická podatelna
+                <!-- -->
+                <!-- -->
+               </div>
+              </div>
+              <!-- -->
+             </div>
+             <span>
+              <!-- -->
+              <!-- -->
+              <gov-icon name="button-forward" type="ui">
+              </gov-icon>
+             </span>
+            </div>
+           </a>
+          </section>
+         </article>
+         <aside>
+          <!-- -->
+         </aside>
+        </div>
+       </div>
+      </gov-container>
+      <!--]-->
+     </main>
+     <!--[-->
+     <footer>
+      <gov-container>
+       <div>
+        <div>
+         <img/>
+         <nav>
+          <span>
+           Co je nového
+          </span>
+          <ul>
+           <li>
+            <a href="https://www.uradprace.cz/aktuality" rel="noopener noreferrer" size="s">
+             Aktuality
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uradprace.cz/pro-media" rel="noopener noreferrer" size="s">
+             Pro média
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uradprace.cz/moznosti-prihlasovani" rel="noopener noreferrer" size="s">
+             Možnosti přihlášení
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uradprace.cz/seznam-rss-kanalu" rel="noopener noreferrer" size="s">
+             RSS
+            </a>
+           </li>
+          </ul>
+         </nav>
+         <nav>
+          <span>
+           Úřad práce
+          </span>
+          <ul>
+           <li>
+            <a href="https://www.uradprace.cz/generalni-reditelstvi-1" rel="noopener noreferrer" size="s">
+             Generální ředitelství
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uradprace.cz/kontakty-na-pracoviste-a-pobocky" rel="noopener noreferrer" size="s">
+             Krajské pobočky
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uradprace.cz/socialni-poradce" rel="noopener noreferrer" size="s">
+             Sociální poradce
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uradprace.cz/uredni-deska" rel="noopener noreferrer" size="s">
+             Úřední deska
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uradprace.cz/projekty-na-podporu-mobility" rel="noopener noreferrer" size="s">
+             EURES
+            </a>
+           </li>
+          </ul>
+         </nav>
+         <nav>
+          <span>
+           Další portály
+          </span>
+          <ul>
+           <li>
+            <a href="https://jenda.mpsv.cz/" rel="noopener noreferrer" size="s">
+             Jenda - klientská zóna
+            </a>
+           </li>
+           <li>
+            <a href="https://www.mpsv.cz/" rel="noopener noreferrer" size="s">
+             MPSV
+            </a>
+           </li>
+           <li>
+            <a href="https://www.cssz.cz/" rel="noopener noreferrer" size="s">
+             Česká správa sociálního zabezpečení
+            </a>
+           </li>
+           <li>
+            <a href="https://www.suip.cz/" rel="noopener noreferrer" size="s">
+             Státní úřad inspekce práce
+            </a>
+           </li>
+           <li>
+            <a href="https://www.esfcr.cz/" rel="noopener noreferrer" size="s">
+             Operační program Zaměstnanost
+            </a>
+           </li>
+          </ul>
+         </nav>
+        </div>
+        <div>
+         <a href="https://www.facebook.com/uradprace.cr" rel="noopener noreferrer" size="xl" target="_blank">
+          <gov-icon name="facebook" type="custom">
+          </gov-icon>
+         </a>
+         <!-- -->
+         <a href="https://www.youtube.com/channel/UCo0EprOghpnR5S1VEOKpQNA" rel="noopener noreferrer" size="xl" target="_blank">
+          <gov-icon name="youtube" type="custom">
+          </gov-icon>
+         </a>
+         <a href="https://www.instagram.com/uradprace.cr" rel="noopener noreferrer" size="xl" target="_blank">
+          <gov-icon name="instagram" type="custom">
+          </gov-icon>
+         </a>
+        </div>
+        <nav>
+         <ul>
+          <li>
+           <a href="https://www.uradprace.cz/prohlaseni-o-pristupnosti" rel="noopener noreferrer" size="s">
+            Prohlášení o přístupnosti
+           </a>
+          </li>
+          <li>
+           <a href="https://www.uradprace.cz/mapa-stranek" rel="noopener noreferrer" size="s">
+            Mapa stránek
+           </a>
+          </li>
+          <li>
+           <a href="https://www.uradprace.cz/cookies1" rel="noopener noreferrer" size="s">
+            Cookies
+           </a>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </gov-container>
+      <!--[-->
+      <div>
+       <gov-container>
+        <h2>
+         Můžeme si u vás uložit cookies?
+        </h2>
+        <p>
+         Co že to znamená? Cookies jsou malé datové soubory, které slouží např. k tomu, aby si web pamatoval vaše nastavení a to, co vás zajímá, nebo abychom jej zlepšovali . Pro ukládání různých typů cookies od vás potřebujeme souhlas. Web bude fungovat i bez souhlasu, s ním ale o něco lépe.
+        </p>
+        <div>
+         <gov-button color="primary" hydrated="" size="m" type="solid">
+          <!-- -->
+          <button aria-disabled="false" tabindex="0" type="button">
+           Souhlasím se všemi
+          </button>
+         </gov-button>
+         <gov-button color="primary" hydrated="" size="m" type="outlined">
+          <!-- -->
+          <button aria-disabled="false" tabindex="0" type="button">
+           Odmítnout všechny
+          </button>
+         </gov-button>
+         <gov-button color="primary" hydrated="" size="m" type="base">
+          <!-- -->
+          <button aria-disabled="false" tabindex="0" type="button">
+           Podrobné nastavení
+          </button>
+         </gov-button>
+        </div>
+       </gov-container>
+      </div>
+      <gov-dialog hydrated="">
+       <!-- -->
+       <dialog aria-describedby="GovDialogContent-b88b27b6-b64b-2004-0d2f-b6f98c4ffde4" aria-hidden="true" aria-labelledby="GovDialogLabel-a7f58e55-7673-f557-52d5-ec655a97c31b" aria-modal="true" hidden="" role="dialog" tabindex="-1">
+        <div>
+         <div>
+          <span id="GovDialogLabel-a7f58e55-7673-f557-52d5-ec655a97c31b">
+           <h2 slot="title">
+            Nastavení souhlasů s cookies
+           </h2>
+          </span>
+          <gov-button color="primary" hydrated="" size="m" type="base">
+           <!-- -->
+           <button aria-disabled="false" aria-label="Zavřít okno" tabindex="0" type="button">
+            <gov-icon name="x-lg" slot="icon-start" type="components">
+            </gov-icon>
+           </button>
+          </gov-button>
+         </div>
+         <div id="GovDialogContent-b88b27b6-b64b-2004-0d2f-b6f98c4ffde4">
+          <p>
+           Při vašich návštěvách webů z domény .mpsv.cz používáme níže uvedené typy cookies. Vy nám udělujete souhlas k použití všech, nebo jen vybraných typů. Vaše dříve udělené souhlasy zde můžete upravit.
+          </p>
+          <ul>
+           <li>
+            <gov-form-checkbox checked="" disabled="" hydrated="" label="Nezbytné cookies" size="m">
+             <!-- -->
+             <input aria-checked="true" aria-disabled="true" aria-required="false" disabled="" id="GovCheckbox-600edf66-501f-55e6-4ef2-c6d6d4aeee35" type="checkbox"/>
+             <span>
+              <gov-form-label identifier="GovCheckbox-600edf66-501f-55e6-4ef2-c6d6d4aeee35" required="false" size="m" slot="label">
+               <!-- -->
+               <label for="GovCheckbox-600edf66-501f-55e6-4ef2-c6d6d4aeee35">
+                Nezbytné cookies
+               </label>
+              </gov-form-label>
+              <gov-icon name="check-lg" type="components">
+              </gov-icon>
+              <gov-icon name="dash-lg" type="components">
+              </gov-icon>
+             </span>
+            </gov-form-checkbox>
+            <p>
+             Bez těchto cookies stránky nefungují správně, po zavření prohlížeče se automaticky smažou (např. správné zobrazení stránky, session id, nastavení souhlasů).
+            </p>
+           </li>
+           <li>
+            <gov-form-checkbox hydrated="" label="Statistické a výkonnostní cookie" size="m">
+             <!-- -->
+             <input aria-checked="false" aria-disabled="false" aria-required="false" id="GovCheckbox-ab74300e-3d74-81f4-078f-13fd421f2f6b" type="checkbox"/>
+             <span>
+              <gov-form-label identifier="GovCheckbox-ab74300e-3d74-81f4-078f-13fd421f2f6b" required="false" size="m" slot="label">
+               <!-- -->
+               <label for="GovCheckbox-ab74300e-3d74-81f4-078f-13fd421f2f6b">
+                Statistické a výkonnostní cookie
+               </label>
+              </gov-form-label>
+              <gov-icon name="check-lg" type="components">
+              </gov-icon>
+              <gov-icon name="dash-lg" type="components">
+              </gov-icon>
+             </span>
+            </gov-form-checkbox>
+            <p>
+             Pomáhají anonymně zjišťovat, jaké stránky na webu jsou oblíbené a jak je uživatelé využívají, tyto informace slouží k dalšímu zlepšování a úpravám stránek.
+            </p>
+           </li>
+           <li>
+            <gov-form-checkbox hydrated="" label="Marketingové cookies" size="m">
+             <!-- -->
+             <input aria-checked="false" aria-disabled="false" aria-required="false" id="GovCheckbox-a795ee93-9735-b26f-f3f4-05d3ae21f9b3" type="checkbox"/>
+             <span>
+              <gov-form-label identifier="GovCheckbox-a795ee93-9735-b26f-f3f4-05d3ae21f9b3" required="false" size="m" slot="label">
+               <!-- -->
+               <label for="GovCheckbox-a795ee93-9735-b26f-f3f4-05d3ae21f9b3">
+                Marketingové cookies
+               </label>
+              </gov-form-label>
+              <gov-icon name="check-lg" type="components">
+              </gov-icon>
+              <gov-icon name="dash-lg" type="components">
+              </gov-icon>
+             </span>
+            </gov-form-checkbox>
+            <p>
+             Zjišťují, jaký typ marketingové propagace uživatele oslovuje a umožňují zobrazovat mu ty, které jsou více relevantní.
+            </p>
+           </li>
+          </ul>
+          <p>
+           Více informací o cookies a zpracování dat naleznete v
+           <a href="/cookies">
+            Zpracování osobních údajů a cookies.
+           </a>
+          </p>
+          <gov-button color="primary" hydrated="" size="m" type="solid">
+           <!-- -->
+           <button aria-disabled="false" tabindex="0" type="button">
+            Uložit nastavení
+           </button>
+          </gov-button>
+         </div>
+        </div>
+       </dialog>
+      </gov-dialog>
+      <!--]-->
+     </footer>
+     <!-- -->
+     <!--]-->
+    </div>
+   </div>
+  </div>
+  <div id="teleports">
+  </div>
+ </body>
+</html>

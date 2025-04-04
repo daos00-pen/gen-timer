@@ -1,0 +1,3232 @@
+https://www.make-it-in-germany.com/de
+<html data-original-lang="de-DE" data-scroll-top="0" itemscope="" itemtype="http://schema.org/WebPage" lang="de-DE" style="top: 0px;">
+ <head>
+  <meta content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==" http-equiv="origin-trial"/>
+  <meta charset="utf-8"/>
+  <!-- This website is powered by TYPO3 - inspiring people to share! TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL. TYPO3 is copyright 1998-2025 of Kasper Skaarhoj. Extensions are copyright of their respective owners. Information and contribution at https://typo3.org/ -->
+  <title>
+   Fachkräfteseite
+  </title>
+  <meta content="TYPO3 CMS" name="generator"/>
+  <meta content="Make it in Germany ist das Portal der Bundesregierung für Fachkräfte aus dem Ausland. Hier finden Sie Infos zu Jobs, Visum und Leben in Deutschland!" name="description"/>
+  <meta content="index,follow" name="robots"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="2025-02-07" name="date"/>
+  <meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
+  <meta content="ie=edge" http-equiv="x-ua-compatible"/>
+  <meta content="Fachkräfteseite" property="og:title"/>
+  <meta content="Make it in Germany ist das Portal der Bundesregierung für Fachkräfte aus dem Ausland. Hier finden Sie Infos zu Jobs, Visum und Leben in Deutschland!" property="og:description"/>
+  <meta content="Make it in Germany ist das Portal der Bundesregierung für Fachkräfte aus dem Ausland. Hier finden Sie Infos zu Jobs, Visum und Leben in Deutschland!" property="twitter:description"/>
+  <meta content="website" property="og:type"/>
+  <meta content="https://www.make-it-in-germany.com/de/" property="og:url"/>
+  <meta content="https://www.make-it-in-germany.com/typo3temp/assets/images/csm_181121_Logo_Make_it_in_Germany_Claim_CMYK_DEpng_de427c439a_58681733ebc2aa07954a9940a98b68d2.png" property="og:image"/>
+  <meta content="https://www.make-it-in-germany.com/typo3temp/assets/images/csm_181121_Logo_Make_it_in_Germany_Claim_CMYK_DEpng_de427c439a_58681733ebc2aa07954a9940a98b68d2.png" property="twitter:image"/>
+  <meta content="#004B76" name="theme-color"/>
+  <meta content="Make it" name="apple-mobile-web-app-title"/>
+  <meta content="GHefmdk5dSQyImiUncj2pn3BS_W3FF7UrAva5XehwZI" name="google-site-verification"/>
+  <!-- Google Tag Manager -->
+  <!-- End Google Tag Manager -->
+  <!-- This site is optimized with the Yoast SEO for TYPO3 plugin - https://yoast.com/typo3-extensions-seo/ -->
+ </head>
+ <body data-country-url="https://www.make-it-in-germany.com/de/userCountry.json" data-page-uid="2" data-page-url="https://www.make-it-in-germany.com/de/" data-tracking-context="Fachkraft" data-usercentrics-id="A9IqDCqj4">
+  <a href="#navbar-parent">
+   Zur Hauptnavigation
+  </a>
+  <a href="#main">
+   Zum Hauptbereich
+  </a>
+  <header id="header">
+   <div>
+    <div>
+     <div>
+      <a href="/de/">
+       <span>
+        Zur Startseite
+       </span>
+      </a>
+     </div>
+     <nav aria-label="Zielgruppenmenü">
+      <ul>
+       <li>
+        <a href="/de/" title="Für Fachkräfte">
+         Für Fachkräfte
+        </a>
+       </li>
+       <li>
+        <a href="https://www.make-it-in-germany.com/de/unternehmen/" title="Für Arbeitgeber">
+         Für Arbeitgeber
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <nav aria-label="Sprachenmenü">
+      <ul>
+       <li>
+        <input data-disable-overflow="true" data-disable-overflow-size="768" data-root="true" data-target="navbar-language" id="languageToggleInput" type="checkbox"/>
+        <label aria-haspopup="true" for="languageToggleInput" id="languageMenu">
+         <span>
+          Sprache wechseln
+         </span>
+        </label>
+        <div id="navbar-language">
+         <ul>
+          <li>
+           <label for="languageToggleInput">
+            <span>
+             <span>
+             </span>
+            </span>
+            <span>
+             Sprachauswahl
+            </span>
+           </label>
+          </li>
+          <li>
+           <ul>
+            <li>
+             <a href="/de/" id="menuLanguagesItemBarDropdown0" itemprop="url" title="DE">
+              <span itemprop="name">
+               DE
+              </span>
+             </a>
+            </li>
+            <li>
+             <a href="/en/" id="menuLanguagesItemBarDropdown1" itemprop="url" title="EN">
+              <span itemprop="name">
+               EN
+              </span>
+             </a>
+            </li>
+            <li>
+             <a href="/es/" id="menuLanguagesItemBarDropdown3" itemprop="url" title="ES">
+              <span itemprop="name">
+               ES
+              </span>
+             </a>
+            </li>
+            <li>
+             <a href="/fr/" id="menuLanguagesItemBarDropdown2" itemprop="url" title="FR">
+              <span itemprop="name">
+               FR
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <span>
+            Kurze Informationen auf:
+           </span>
+           <ul>
+            <li>
+             <a href="https://id.make-it-in-germany.com" title="Bahasa Indonesia">
+              Bahasa Indonesia
+             </a>
+            </li>
+            <li>
+             <a href="https://bg.make-it-in-germany.com" title="Български">
+              Български
+             </a>
+            </li>
+            <li>
+             <a href="https://www.make-it-in-germany.ba" title="Bosanski">
+              Bosanski
+             </a>
+            </li>
+            <li>
+             <a href="https://arabic.make-it-in-germany.com" title="اللغة: العربية">
+              اللغة: العربية
+             </a>
+            </li>
+            <li>
+             <a href="https://www.make-it-in-germany.mx/" title="Español (México)">
+              Español (México)
+             </a>
+            </li>
+            <li>
+             <a href="https://www.make-it-in-germany.it" title="Italiano">
+              Italiano
+             </a>
+            </li>
+            <li>
+             <a href="https://kor.make-it-in-germany.com" title="한국어">
+              한국어
+             </a>
+            </li>
+            <li>
+             <a href="https://www.make-it-in-germany.pl" title="Polski">
+              Polski
+             </a>
+            </li>
+            <li>
+             <a href="https://www.make-it-in-germany.pt" title="Português">
+              Português
+             </a>
+            </li>
+            <li>
+             <a href="https://br.make-it-in-germany.com/" title="Português (Brasil)">
+              Português (Brasil)
+             </a>
+            </li>
+            <li>
+             <a href="https://ro.make-it-in-germany.com" title="Românesc">
+              Românesc
+             </a>
+            </li>
+            <li>
+             <a href="https://www.make-it-in-germany.ru" title="Русский">
+              Русский
+             </a>
+            </li>
+            <li>
+             <a href="https://www.make-it-in-germany.al" title="Shqip">
+              Shqip
+             </a>
+            </li>
+            <li>
+             <a href="https://www.make-it-in-germany.rs" title="Српски">
+              Српски
+             </a>
+            </li>
+            <li>
+             <a href="https://www.make-it-in-germany.info.tr" title="Türkçe">
+              Türkçe
+             </a>
+            </li>
+            <li>
+             <a href="https://www.make-it-in-germany.vn" title="Tiếng Việt">
+              Tiếng Việt
+             </a>
+            </li>
+            <li>
+             <a href="https://www.make-it-in-germany.com/fa" title="فارسی">
+              فارسی
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </div>
+        <label for="languageToggleInput">
+         <span>
+          Suche ausblenden
+         </span>
+        </label>
+       </li>
+       <li>
+        <a href="/de/" id="menuLanguagesItemBar0" itemprop="url" title="DE">
+         <span itemprop="name">
+          DE
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="/en/" id="menuLanguagesItemBar1" itemprop="url" title="EN">
+         <span itemprop="name">
+          EN
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="/es/" id="menuLanguagesItemBar3" itemprop="url" title="ES">
+         <span itemprop="name">
+          ES
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="/fr/" id="menuLanguagesItemBar2" itemprop="url" title="FR">
+         <span itemprop="name">
+          FR
+         </span>
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <nav aria-label="Hauptmenü">
+      <ul>
+       <li>
+        <label aria-haspopup="true" for="navbarSearchToggleInput" id="navbarSearchToggle">
+         <span>
+          Suche anzeigen/ausblenden
+         </span>
+        </label>
+       </li>
+       <li>
+        <label aria-haspopup="true" for="navbarMainToggleInput" id="navbarMainToggle">
+         <span>
+          <span>
+          </span>
+         </span>
+         <span>
+          Menü
+         </span>
+        </label>
+       </li>
+      </ul>
+     </nav>
+    </div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <a href="https://www.bundesregierung.de" rel="noopener noreferrer" target="_blank">
+       <span>
+        Zur Website der Bundesregierung
+       </span>
+      </a>
+      <img alt="Bundesregierung"/>
+     </div>
+     <div>
+      <input data-disable-overflow="true" data-disable-overflow-size="768" data-root="true" data-target="navbar-search" id="navbarSearchToggleInput" type="checkbox"/>
+      <form accept-charset="utf-8" action="/de/suche" data-suggest="/de/suche.search" data-suggest-header="Top Results" data-tracking-event="search" data-tracking-type="Content" id="navbar-search" method="get">
+       <div>
+        <div>
+         <div>
+          <input aria-autocomplete="both" aria-controls="autoComplete_list_1" aria-expanded="false" aria-haspopup="true" aria-owns="autoComplete_list_1" autocomplete="off" id="searchterm" name="tx_solr[q]" placeholder="Nach Themen suchen" role="combobox" type="search" value=""/>
+          <ul hidden="" id="autoComplete_list_1" role="listbox">
+          </ul>
+          <label for="searchterm">
+           Nach Themen suchen
+          </label>
+         </div>
+         <div>
+          <button type="submit">
+           <span>
+            Suchen
+           </span>
+          </button>
+         </div>
+        </div>
+        <label for="navbarSearchToggleInput">
+         <span>
+          Suche ausblenden
+         </span>
+        </label>
+       </div>
+      </form>
+     </div>
+     <div>
+      <a href="/de/">
+       <span>
+        Zur Startseite
+       </span>
+      </a>
+      <span>
+       Das Portal der Bundesregierung
+       <br/>
+       für Fachkräfte aus dem Ausland
+      </span>
+     </div>
+     <div id="navbar-parent">
+      <input data-disable-overflow="true" data-disable-overflow-size="1200" data-root="true" data-target="navbar-header" id="navbarMainToggleInput" type="checkbox"/>
+      <nav aria-labelledby="navbarMainToggle" id="navbar-header" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+       <div>
+        <ul>
+         <li>
+          <label for="navbarMainToggleInput">
+           <span>
+            <span>
+            </span>
+           </span>
+           <span>
+            Alle Kategorien
+           </span>
+          </label>
+         </li>
+         <li>
+          <input data-target="menuMainItem32Dropdown" id="menuMainItem32DropdownToggle" type="checkbox"/>
+          <label aria-haspopup="true" for="menuMainItem32DropdownToggle">
+           <span>
+            Arbeiten in Deutschland anzeigen
+           </span>
+          </label>
+          <a href="/de/arbeiten-in-deutschland" id="menuMainItem32" itemprop="url" title="Arbeiten in Deutschland">
+           <span itemprop="name">
+            Arbeiten in Deutschland
+           </span>
+          </a>
+          <div id="menuMainItem32Dropdown">
+           <div data-columns="4">
+            <div data-columns="4">
+             <ul>
+              <li>
+               <label for="menuMainItem32DropdownToggle">
+                <span>
+                 Arbeiten in Deutschland
+                </span>
+               </label>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren33Dropdown" id="menuMainChildren33DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren33DropdownToggle">
+                <span>
+                 Gefragte Berufe anzeigen
+                </span>
+               </label>
+               <a href="/de/arbeiten-in-deutschland/gefragte-berufe" id="menuMainChildren33" itemprop="url" title="Gefragte Berufe">
+                <span itemprop="name">
+                 Gefragte Berufe
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren33Dropdown">
+                <li>
+                 <label for="menuMainChildren33DropdownToggle">
+                  <span>
+                   Gefragte Berufe
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/green-jobs" id="menuMainGrandchildren5536" itemprop="url" title="Green Jobs">
+                  <span itemprop="name">
+                   Green Jobs
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/gefragte-berufe/pflegefachkraefte" id="menuMainGrandchildren999" itemprop="url" title="Pflegefachkräfte">
+                  <span itemprop="name">
+                   Pflegefachkräfte
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/gefragte-berufe/aerzte" id="menuMainGrandchildren1000" itemprop="url" title="Ärzte">
+                  <span itemprop="name">
+                   Ärzte
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/gefragte-berufe/ingenieure" id="menuMainGrandchildren1001" itemprop="url" title="Ingenieure">
+                  <span itemprop="name">
+                   Ingenieure
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/gefragte-berufe/it-spezialisten" id="menuMainGrandchildren1002" itemprop="url" title="IT-Spezialisten">
+                  <span itemprop="name">
+                   IT-Spezialisten
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/gefragte-berufe/naturwissenschaftler" id="menuMainGrandchildren5165" itemprop="url" title="Naturwissenschaftler">
+                  <span itemprop="name">
+                   Naturwissenschaftler
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/gefragte-berufe/handwerker" id="menuMainGrandchildren5166" itemprop="url" title="Handwerker">
+                  <span itemprop="name">
+                   Handwerker
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/gefragte-berufe/transport-berufe" id="menuMainGrandchildren6560" itemprop="url" title="Transport-Berufe">
+                  <span itemprop="name">
+                   Transport-Berufe
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/gefragte-berufe/weitere-gefragte-berufe" id="menuMainGrandchildren6946" itemprop="url" title="Weitere gefragte Berufe">
+                  <span itemprop="name">
+                   Weitere gefragte Berufe
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren36Dropdown" id="menuMainChildren36DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren36DropdownToggle">
+                <span>
+                 Job finden anzeigen
+                </span>
+               </label>
+               <a href="/de/arbeiten-in-deutschland/job" id="menuMainChildren36" itemprop="url" title="Job finden">
+                <span itemprop="name">
+                 Job finden
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren36Dropdown">
+                <li>
+                 <label for="menuMainChildren36DropdownToggle">
+                  <span>
+                   Job finden
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/job/jobsuche" id="menuMainGrandchildren34" itemprop="url" title="Jobsuche">
+                  <span itemprop="name">
+                   Jobsuche
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/job/bewerbung" id="menuMainGrandchildren1003" itemprop="url" title="Bewerbung">
+                  <span itemprop="name">
+                   Bewerbung
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/job/vermittlungsagenturen" id="menuMainGrandchildren6751" itemprop="url" title="Vermittlungsagenturen">
+                  <span itemprop="name">
+                   Vermittlungsagenturen
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/arbeiten-in-deutschland/jobboerse" id="menuMainChildren5411" itemprop="url" title="Jobbörse">
+                <span itemprop="name">
+                 Jobbörse
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren37Dropdown" id="menuMainChildren37DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren37DropdownToggle">
+                <span>
+                 Anerkennung anzeigen
+                </span>
+               </label>
+               <a href="/de/arbeiten-in-deutschland/anerkennung" id="menuMainChildren37" itemprop="url" title="Anerkennung">
+                <span itemprop="name">
+                 Anerkennung
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren37Dropdown">
+                <li>
+                 <label for="menuMainChildren37DropdownToggle">
+                  <span>
+                   Anerkennung
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/anerkennung/wer-benoetigt" id="menuMainGrandchildren1005" itemprop="url" title="Wer benötigt eine Anerkennung?">
+                  <span itemprop="name">
+                   Wer benötigt eine Anerkennung?
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/anerkennung/anerkennungsverfahren" id="menuMainGrandchildren1006" itemprop="url" title="Anerkennungs­verfahren">
+                  <span itemprop="name">
+                   Anerkennungs­verfahren
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/anerkennung/hochschulabschluesse" id="menuMainGrandchildren1007" itemprop="url" title="Hochschulabschlüsse">
+                  <span itemprop="name">
+                   Hochschulabschlüsse
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren5346Dropdown" id="menuMainChildren5346DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren5346DropdownToggle">
+                <span>
+                 Arbeitswelt anzeigen
+                </span>
+               </label>
+               <a href="/de/arbeiten-in-deutschland/arbeitswelt" id="menuMainChildren5346" itemprop="url" title="Arbeitswelt">
+                <span itemprop="name">
+                 Arbeitswelt
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren5346Dropdown">
+                <li>
+                 <label for="menuMainChildren5346DropdownToggle">
+                  <span>
+                   Arbeitswelt
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/arbeitswelt/arbeitsvertrag" id="menuMainGrandchildren38" itemprop="url" title="Arbeitsvertrag">
+                  <span itemprop="name">
+                   Arbeitsvertrag
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/arbeitswelt/gehalt-steuern-sozialversicherung" id="menuMainGrandchildren1008" itemprop="url" title="Gehalt, Steuern &amp; Sozialversicherung">
+                  <span itemprop="name">
+                   Gehalt, Steuern &amp; Sozialversicherung
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/arbeiten-in-deutschland/als-eu-buerger" id="menuMainChildren1566" itemprop="url" title="Als EU-Bürger in Deutschland arbeiten">
+                <span itemprop="name">
+                 Als EU-Bürger in Deutschland arbeiten
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren41Dropdown" id="menuMainChildren41DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren41DropdownToggle">
+                <span>
+                 Existenzgründung anzeigen
+                </span>
+               </label>
+               <a href="/de/arbeiten-in-deutschland/existenzgruendung" id="menuMainChildren41" itemprop="url" title="Existenzgründung">
+                <span itemprop="name">
+                 Existenzgründung
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren41Dropdown">
+                <li>
+                 <label for="menuMainChildren41DropdownToggle">
+                  <span>
+                   Existenzgründung
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/existenzgruendung/gruende" id="menuMainGrandchildren118" itemprop="url" title="5 Gründe">
+                  <span itemprop="name">
+                   5 Gründe
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/existenzgruendung/visum" id="menuMainGrandchildren119" itemprop="url" title="Visum für eine Gründung">
+                  <span itemprop="name">
+                   Visum für eine Gründung
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/existenzgruendung/fachliche-voraussetzung/anforderungen" id="menuMainGrandchildren1016" itemprop="url" title="Fachliche Voraussetzungen zum Gründen">
+                  <span itemprop="name">
+                   Fachliche Voraussetzungen zum Gründen
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/existenzgruendung/vorbereitung-beratung" id="menuMainGrandchildren1021" itemprop="url" title="Vorbereitung und Beratung">
+                  <span itemprop="name">
+                   Vorbereitung und Beratung
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/arbeiten-in-deutschland/existenzgruendung/schritte-unternehmensstart" id="menuMainGrandchildren1042" itemprop="url" title="5 Schritte für den Unternehmensstart">
+                  <span itemprop="name">
+                   5 Schritte für den Unternehmensstart
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/arbeiten-in-deutschland/forschen" id="menuMainChildren1049" itemprop="url" title="Forschen">
+                <span itemprop="name">
+                 Forschen
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+            </div>
+            <div>
+             <div>
+              <div>
+               <figure>
+                <picture>
+                 <source data-srcset="/fileadmin/_processed_/9/0/csm_2_Moon_Safari_-_stock.adobe.com_fa53f8ca94.jpeg" media="(min-width: 75rem)" srcset="/fileadmin/_processed_/9/0/csm_2_Moon_Safari_-_stock.adobe.com_fa53f8ca94.jpeg">
+                  <source data-srcset="/fileadmin/_processed_/9/0/csm_2_Moon_Safari_-_stock.adobe.com_62471f4caa.jpeg" srcset="/fileadmin/_processed_/9/0/csm_2_Moon_Safari_-_stock.adobe.com_62471f4caa.jpeg">
+                   <img alt="Fachkraft aus dem Ausland arbeitet in Deutschland "/>
+                   <span>
+                   </span>
+                  </source>
+                 </source>
+                </picture>
+               </figure>
+              </div>
+              <div>
+               <a href="/de/arbeiten-in-deutschland/jobboerse" title="Zur Jobbörse">
+                Zur Jobbörse
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li>
+          <input data-target="menuMainItem44Dropdown" id="menuMainItem44DropdownToggle" type="checkbox"/>
+          <label aria-haspopup="true" for="menuMainItem44DropdownToggle">
+           <span>
+            Studium &amp; Ausbildung anzeigen
+           </span>
+          </label>
+          <a href="/de/studium-ausbildung" id="menuMainItem44" itemprop="url" title="Studium &amp; Ausbildung">
+           <span itemprop="name">
+            Studium &amp; Ausbildung
+           </span>
+          </a>
+          <div id="menuMainItem44Dropdown">
+           <div data-columns="4">
+            <div data-columns="4">
+             <ul>
+              <li>
+               <label for="menuMainItem44DropdownToggle">
+                <span>
+                 Studium &amp; Ausbildung
+                </span>
+               </label>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren45Dropdown" id="menuMainChildren45DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren45DropdownToggle">
+                <span>
+                 Studieren in Deutschland anzeigen
+                </span>
+               </label>
+               <a href="/de/studium-ausbildung/studieren-in-deutschland" id="menuMainChildren45" itemprop="url" title="Studieren in Deutschland">
+                <span itemprop="name">
+                 Studieren in Deutschland
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren45Dropdown">
+                <li>
+                 <label for="menuMainChildren45DropdownToggle">
+                  <span>
+                   Studieren in Deutschland
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/studium-ausbildung/studieren-in-deutschland/absolvieren" id="menuMainGrandchildren1745" itemprop="url" title="Kann ich ein Studium absolvieren?">
+                  <span itemprop="name">
+                   Kann ich ein Studium absolvieren?
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/studium-ausbildung/studieren-in-deutschland/organisieren" id="menuMainGrandchildren1751" itemprop="url" title="Einreise und Studium organisieren">
+                  <span itemprop="name">
+                   Einreise und Studium organisieren
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/studium-ausbildung/studieren-in-deutschland/arbeit" id="menuMainGrandchildren1755" itemprop="url" title="Studium und Arbeit">
+                  <span itemprop="name">
+                   Studium und Arbeit
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/studium-ausbildung/studieren-in-deutschland/perspektiven-danach" id="menuMainGrandchildren1135" itemprop="url" title="Perspektiven nach dem Studium">
+                  <span itemprop="name">
+                   Perspektiven nach dem Studium
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren46Dropdown" id="menuMainChildren46DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren46DropdownToggle">
+                <span>
+                 Ausbildung in Deutschland anzeigen
+                </span>
+               </label>
+               <a href="/de/studium-ausbildung/ausbildung-in-deutschland" id="menuMainChildren46" itemprop="url" title="Ausbildung in Deutschland">
+                <span itemprop="name">
+                 Ausbildung in Deutschland
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren46Dropdown">
+                <li>
+                 <label for="menuMainChildren46DropdownToggle">
+                  <span>
+                   Ausbildung in Deutschland
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/studium-ausbildung/ausbildung-in-deutschland/gruende" id="menuMainGrandchildren1163" itemprop="url" title="5 Gründe">
+                  <span itemprop="name">
+                   5 Gründe
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/studium-ausbildung/ausbildung-in-deutschland/was-ist-das" id="menuMainGrandchildren1164" itemprop="url" title="Was ist eine Ausbildung?">
+                  <span itemprop="name">
+                   Was ist eine Ausbildung?
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/studium-ausbildung/ausbildung-in-deutschland/kann-ich-eine-ausbildung-machen" id="menuMainGrandchildren1194" itemprop="url" title="Kann ich eine Ausbildung machen?">
+                  <span itemprop="name">
+                   Kann ich eine Ausbildung machen?
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/studium-ausbildung/ausbildung-in-deutschland/gefragte-ausbildungsberufe" id="menuMainGrandchildren1203" itemprop="url" title="Gefragte Ausbildungsberufe">
+                  <span itemprop="name">
+                   Gefragte Ausbildungsberufe
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/studium-ausbildung/ausbildung-in-deutschland/finden" id="menuMainGrandchildren1201" itemprop="url" title="Wie finde ich eine Ausbildung?">
+                  <span itemprop="name">
+                   Wie finde ich eine Ausbildung?
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/studium-ausbildung/ausbildung-in-deutschland/perspektiven-danach" id="menuMainGrandchildren1211" itemprop="url" title="Perspektiven nach der Ausbildung">
+                  <span itemprop="name">
+                   Perspektiven nach der Ausbildung
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </div>
+            <div>
+             <div>
+              <div>
+               <figure>
+                <picture>
+                 <source data-srcset="/fileadmin/_processed_/3/c/csm_2.5_iStock.com_andresr_64826aa798.jpg" media="(min-width: 75rem)" srcset="/fileadmin/_processed_/3/c/csm_2.5_iStock.com_andresr_64826aa798.jpg">
+                  <source data-srcset="/fileadmin/_processed_/3/c/csm_2.5_iStock.com_andresr_c419ac2a19.jpg" srcset="/fileadmin/_processed_/3/c/csm_2.5_iStock.com_andresr_c419ac2a19.jpg">
+                   <img alt="International group of young people completing their vocational training in Germany "/>
+                   <span>
+                   </span>
+                  </source>
+                 </source>
+                </picture>
+               </figure>
+              </div>
+              <div>
+               <a href="/de/studium-ausbildung/ausbildung-in-deutschland/was-ist-das/dual" title="Duale Berufsausbildung">
+                Duale Berufsausbildung
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li>
+          <input data-target="menuMainItem49Dropdown" id="menuMainItem49DropdownToggle" type="checkbox"/>
+          <label aria-haspopup="true" for="menuMainItem49DropdownToggle">
+           <span>
+            Visum &amp; Aufenthalt anzeigen
+           </span>
+          </label>
+          <a href="/de/visum-aufenthalt" id="menuMainItem49" itemprop="url" title="Visum &amp; Aufenthalt">
+           <span itemprop="name">
+            Visum &amp; Aufenthalt
+           </span>
+          </a>
+          <div id="menuMainItem49Dropdown">
+           <div data-columns="4">
+            <div data-columns="4">
+             <ul>
+              <li>
+               <label for="menuMainItem49DropdownToggle">
+                <span>
+                 Visum &amp; Aufenthalt
+                </span>
+               </label>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/visum-aufenthalt/quick-check" id="menuMainChildren50" itemprop="url" title="Quick-Check">
+                <span itemprop="name">
+                 Quick-Check
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren52Dropdown" id="menuMainChildren52DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren52DropdownToggle">
+                <span>
+                 Arten von Visa anzeigen
+                </span>
+               </label>
+               <a href="/de/visum-aufenthalt/arten" id="menuMainChildren52" itemprop="url" title="Arten von Visa">
+                <span itemprop="name">
+                 Arten von Visa
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren52Dropdown">
+                <li>
+                 <label for="menuMainChildren52DropdownToggle">
+                  <span>
+                   Arten von Visa
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/arten/blaue-karte-eu" id="menuMainGrandchildren1604" itemprop="url" title="Blaue Karte EU">
+                  <span itemprop="name">
+                   Blaue Karte EU
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/arten/arbeiten-fachkraefte" id="menuMainGrandchildren1055" itemprop="url" title="Visum zum Arbeiten für Fachkräfte">
+                  <span itemprop="name">
+                   Visum zum Arbeiten für Fachkräfte
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/arten/visum-berufserfahrene" id="menuMainGrandchildren6674" itemprop="url" title="Visum zum Arbeiten für Berufserfahrene">
+                  <span itemprop="name">
+                   Visum zum Arbeiten für Berufserfahrene
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/arten/visum-anerkennungspartnerschaft" id="menuMainGrandchildren6675" itemprop="url" title="Visum zur Anerkennungspartnerschaft">
+                  <span itemprop="name">
+                   Visum zur Anerkennungspartnerschaft
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/arten/it-kraefte" id="menuMainGrandchildren5306" itemprop="url" title="Visaoptionen für IT-Kräfte">
+                  <span itemprop="name">
+                   Visaoptionen für IT-Kräfte
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/arten/chancenkarte-jobsuche" id="menuMainGrandchildren1056" itemprop="url" title="Chancenkarte zur Jobsuche">
+                  <span itemprop="name">
+                   Chancenkarte zur Jobsuche
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/arten/anerkennung-berufsqualifikationen" id="menuMainGrandchildren1063" itemprop="url" title="Visum zur Anerkennung ausländischer Berufsqualifikationen">
+                  <span itemprop="name">
+                   Visum zur Anerkennung ausländischer Berufsqualifikationen
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/arten/berufsausbildung" id="menuMainGrandchildren1058" itemprop="url" title="Visum zum Absolvieren einer Berufsausbildung">
+                  <span itemprop="name">
+                   Visum zum Absolvieren einer Berufsausbildung
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/arten/studieren" id="menuMainGrandchildren1057" itemprop="url" title="Visum zum Studieren">
+                  <span itemprop="name">
+                   Visum zum Studieren
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/arten/weitere" id="menuMainGrandchildren1654" itemprop="url" title="Weitere Visaarten">
+                  <span itemprop="name">
+                   Weitere Visaarten
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren53Dropdown" id="menuMainChildren53DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren53DropdownToggle">
+                <span>
+                 Visumprozess &amp; Formulare anzeigen
+                </span>
+               </label>
+               <a href="/de/visum-aufenthalt/visumprozess-formulare" id="menuMainChildren53" itemprop="url" title="Visumprozess &amp; Formulare">
+                <span itemprop="name">
+                 Visumprozess &amp; Formulare
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren53Dropdown">
+                <li>
+                 <label for="menuMainChildren53DropdownToggle">
+                  <span>
+                   Visumprozess &amp; Formulare
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/visumprozess-formulare/wer-benoetigt-visum" id="menuMainGrandchildren51" itemprop="url" title="Wer benötigt ein Visum?">
+                  <span itemprop="name">
+                   Wer benötigt ein Visum?
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/visumprozess-formulare/einreiseprozess" id="menuMainGrandchildren1064" itemprop="url" title="Visum- und Einreiseprozess">
+                  <span itemprop="name">
+                   Visum- und Einreiseprozess
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/visumprozess-formulare/antragsformulare" id="menuMainGrandchildren1066" itemprop="url" title="Visumantrags­formulare">
+                  <span itemprop="name">
+                   Visumantrags­formulare
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren6588Dropdown" id="menuMainChildren6588DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren6588DropdownToggle">
+                <span>
+                 Familiennachzug anzeigen
+                </span>
+               </label>
+               <a href="/de/visum-aufenthalt/familiennachzug" id="menuMainChildren6588" itemprop="url" title="Familiennachzug">
+                <span itemprop="name">
+                 Familiennachzug
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren6588Dropdown">
+                <li>
+                 <label for="menuMainChildren6588DropdownToggle">
+                  <span>
+                   Familiennachzug
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/familiennachzug/ehegattennachzug-zu-eu-buerger" id="menuMainGrandchildren1172" itemprop="url" title="Ehegattennachzug zu EU-Bürger">
+                  <span itemprop="name">
+                   Ehegattennachzug zu EU-Bürger
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/familiennachzug/ehegattennachzug-zu-nicht-eu-buerger" id="menuMainGrandchildren1173" itemprop="url" title="Ehegattennachzug zu Nicht-EU-Bürger">
+                  <span itemprop="name">
+                   Ehegattennachzug zu Nicht-EU-Bürger
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/familiennachzug/kindernachzug" id="menuMainGrandchildren1206" itemprop="url" title="Kindernachzug">
+                  <span itemprop="name">
+                   Kindernachzug
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/visum-aufenthalt/self-check-chancenkarte" id="menuMainChildren6705" itemprop="url" title="Self-Check: Chancenkarte">
+                <span itemprop="name">
+                 Self-Check: Chancenkarte
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren55Dropdown" id="menuMainChildren55DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren55DropdownToggle">
+                <span>
+                 Dauerhaft in Deutschland leben anzeigen
+                </span>
+               </label>
+               <a href="/de/visum-aufenthalt/dauerhaft-in-deutschland" id="menuMainChildren55" itemprop="url" title="Dauerhaft in Deutschland leben">
+                <span itemprop="name">
+                 Dauerhaft in Deutschland leben
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren55Dropdown">
+                <li>
+                 <label for="menuMainChildren55DropdownToggle">
+                  <span>
+                   Dauerhaft in Deutschland leben
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/dauerhaft-in-deutschland/niederlassungserlaubnis" id="menuMainGrandchildren1069" itemprop="url" title="Niederlassungs­erlaubnis">
+                  <span itemprop="name">
+                   Niederlassungs­erlaubnis
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/dauerhaft-in-deutschland/daueraufenthalt-eu" id="menuMainGrandchildren1648" itemprop="url" title="Erlaubnis zum Daueraufenthalt-EU">
+                  <span itemprop="name">
+                   Erlaubnis zum Daueraufenthalt-EU
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/visum-aufenthalt/dauerhaft-in-deutschland/einbuergerung" id="menuMainGrandchildren1070" itemprop="url" title="Einbürgerung">
+                  <span itemprop="name">
+                   Einbürgerung
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/visum-aufenthalt/fachkraefteeinwanderungsgesetz" id="menuMainChildren1598" itemprop="url" title="Das Fachkräfteeinwanderungsgesetz">
+                <span itemprop="name">
+                 Das Fachkräfteeinwanderungsgesetz
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+            </div>
+            <div>
+             <div>
+              <div>
+               <figure>
+                <picture>
+                 <source data-srcset="/fileadmin/_processed_/9/c/csm_1.3_AnnaStills_-_stock.adobe.com_149cbd8fea.jpeg" media="(min-width: 75rem)" srcset="/fileadmin/_processed_/9/c/csm_1.3_AnnaStills_-_stock.adobe.com_149cbd8fea.jpeg">
+                  <source data-srcset="/fileadmin/_processed_/9/c/csm_1.3_AnnaStills_-_stock.adobe.com_a16784ba9c.jpeg" srcset="/fileadmin/_processed_/9/c/csm_1.3_AnnaStills_-_stock.adobe.com_a16784ba9c.jpeg">
+                   <img alt="Internationale Fachkräfte arbeiten in Deutschland"/>
+                   <span>
+                   </span>
+                  </source>
+                 </source>
+                </picture>
+               </figure>
+              </div>
+              <div>
+               <a href="/de/visum-aufenthalt/arten/blaue-karte-eu" target="_top" title="Blaue Karte EU">
+                Blaue Karte EU
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li>
+          <input data-target="menuMainItem56Dropdown" id="menuMainItem56DropdownToggle" type="checkbox"/>
+          <label aria-haspopup="true" for="menuMainItem56DropdownToggle">
+           <span>
+            Leben in Deutschland anzeigen
+           </span>
+          </label>
+          <a href="/de/leben-in-deutschland" id="menuMainItem56" itemprop="url" title="Leben in Deutschland">
+           <span itemprop="name">
+            Leben in Deutschland
+           </span>
+          </a>
+          <div id="menuMainItem56Dropdown">
+           <div data-columns="4">
+            <div data-columns="4">
+             <ul>
+              <li>
+               <label for="menuMainItem56DropdownToggle">
+                <span>
+                 Leben in Deutschland
+                </span>
+               </label>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren57Dropdown" id="menuMainChildren57DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren57DropdownToggle">
+                <span>
+                 Deutsch lernen anzeigen
+                </span>
+               </label>
+               <a href="/de/leben-in-deutschland/deutsch-lernen" id="menuMainChildren57" itemprop="url" title="Deutsch lernen">
+                <span itemprop="name">
+                 Deutsch lernen
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren57Dropdown">
+                <li>
+                 <label for="menuMainChildren57DropdownToggle">
+                  <span>
+                   Deutsch lernen
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/deutsch-lernen/deutschkenntnisse" id="menuMainGrandchildren1061" itemprop="url" title="Brauche ich Deutschkenntnisse?">
+                  <span itemprop="name">
+                   Brauche ich Deutschkenntnisse?
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/deutsch-lernen/deutschkurse" id="menuMainGrandchildren1126" itemprop="url" title="Deutschkurse">
+                  <span itemprop="name">
+                   Deutschkurse
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/deutsch-lernen/integrationskurse" id="menuMainGrandchildren1207" itemprop="url" title="Integrationskurse">
+                  <span itemprop="name">
+                   Integrationskurse
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren67Dropdown" id="menuMainChildren67DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren67DropdownToggle">
+                <span>
+                 Deutschland kennenlernen anzeigen
+                </span>
+               </label>
+               <a href="/de/leben-in-deutschland/deutschland-kennenlernen" id="menuMainChildren67" itemprop="url" title="Deutschland kennenlernen">
+                <span itemprop="name">
+                 Deutschland kennenlernen
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren67Dropdown">
+                <li>
+                 <label for="menuMainChildren67DropdownToggle">
+                  <span>
+                   Deutschland kennenlernen
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/deutschland-kennenlernen/warum-deutschland" id="menuMainGrandchildren6627" itemprop="url" title="Warum Deutschland?!">
+                  <span itemprop="name">
+                   Warum Deutschland?!
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/deutschland-kennenlernen/bundeslaender" id="menuMainGrandchildren1253" itemprop="url" title="Deutsche Bundesländer">
+                  <span itemprop="name">
+                   Deutsche Bundesländer
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/deutschland-kennenlernen/politik-demokratie-freiheit" id="menuMainGrandchildren128" itemprop="url" title="Politik, Demokratie, Freiheit">
+                  <span itemprop="name">
+                   Politik, Demokratie, Freiheit
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/deutschland-kennenlernen/wirtschaft" id="menuMainGrandchildren129" itemprop="url" title="Wirtschaft">
+                  <span itemprop="name">
+                   Wirtschaft
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/deutschland-kennenlernen/fachkraefte" id="menuMainGrandchildren131" itemprop="url" title="Fachkräfte">
+                  <span itemprop="name">
+                   Fachkräfte
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/deutschland-kennenlernen/einwanderung" id="menuMainGrandchildren132" itemprop="url" title="Einwanderung">
+                  <span itemprop="name">
+                   Einwanderung
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/deutschland-kennenlernen/arbeiten-gehalt" id="menuMainGrandchildren133" itemprop="url" title="Arbeiten und Gehalt">
+                  <span itemprop="name">
+                   Arbeiten und Gehalt
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/deutschland-kennenlernen/bildung" id="menuMainGrandchildren134" itemprop="url" title="Bildung">
+                  <span itemprop="name">
+                   Bildung
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/deutschland-kennenlernen/deutsche-gesellschaft" id="menuMainGrandchildren135" itemprop="url" title="Deutsche Gesellschaft">
+                  <span itemprop="name">
+                   Deutsche Gesellschaft
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren58Dropdown" id="menuMainChildren58DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren58DropdownToggle">
+                <span>
+                 Mit der Familie in Deutschland leben anzeigen
+                </span>
+               </label>
+               <a href="/de/leben-in-deutschland/mit-familie" id="menuMainChildren58" itemprop="url" title="Mit der Familie in Deutschland leben">
+                <span itemprop="name">
+                 Mit der Familie in Deutschland leben
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren58Dropdown">
+                <li>
+                 <label for="menuMainChildren58DropdownToggle">
+                  <span>
+                   Mit der Familie in Deutschland leben
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/mit-familie/finanzielle-unterstuetzung-familien" id="menuMainGrandchildren1225" itemprop="url" title="Finanzielle Unterstützung für Familien">
+                  <span itemprop="name">
+                   Finanzielle Unterstützung für Familien
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/mit-familie/kinderbetreuung" id="menuMainGrandchildren1227" itemprop="url" title="Kinderbetreuung">
+                  <span itemprop="name">
+                   Kinderbetreuung
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/mit-familie/schulsystem" id="menuMainGrandchildren1229" itemprop="url" title="Schulsystem und Schulpflicht">
+                  <span itemprop="name">
+                   Schulsystem und Schulpflicht
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren60Dropdown" id="menuMainChildren60DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren60DropdownToggle">
+                <span>
+                 Wohnen und Mobilität anzeigen
+                </span>
+               </label>
+               <a href="/de/leben-in-deutschland/wohnen-mobilitaet" id="menuMainChildren60" itemprop="url" title="Wohnen und Mobilität">
+                <span itemprop="name">
+                 Wohnen und Mobilität
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren60Dropdown">
+                <li>
+                 <label for="menuMainChildren60DropdownToggle">
+                  <span>
+                   Wohnen und Mobilität
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/wohnen-mobilitaet/wohnen-anmelden" id="menuMainGrandchildren1231" itemprop="url" title="Wohnen und Anmelden">
+                  <span itemprop="name">
+                   Wohnen und Anmelden
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/wohnen-mobilitaet/fuehrerschein-auto" id="menuMainGrandchildren1247" itemprop="url" title="Führerschein und Auto">
+                  <span itemprop="name">
+                   Führerschein und Auto
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/wohnen-mobilitaet/mobilitaet-deutschland" id="menuMainGrandchildren6959" itemprop="url" title="Mobilität in Deutschland">
+                  <span itemprop="name">
+                   Mobilität in Deutschland
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren61Dropdown" id="menuMainChildren61DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren61DropdownToggle">
+                <span>
+                 Geld und Versicherung anzeigen
+                </span>
+               </label>
+               <a href="/de/leben-in-deutschland/geld-versicherung" id="menuMainChildren61" itemprop="url" title="Geld und Versicherung">
+                <span itemprop="name">
+                 Geld und Versicherung
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren61Dropdown">
+                <li>
+                 <label for="menuMainChildren61DropdownToggle">
+                  <span>
+                   Geld und Versicherung
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/geld-versicherung/bankkonto" id="menuMainGrandchildren1244" itemprop="url" title="Bankkonto">
+                  <span itemprop="name">
+                   Bankkonto
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/geld-versicherung/krankenversicherung" id="menuMainGrandchildren1234" itemprop="url" title="Krankenversicherung">
+                  <span itemprop="name">
+                   Krankenversicherung
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/geld-versicherung/weitere" id="menuMainGrandchildren1241" itemprop="url" title="Weitere Versicherungen">
+                  <span itemprop="name">
+                   Weitere Versicherungen
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren66Dropdown" id="menuMainChildren66DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren66DropdownToggle">
+                <span>
+                 Nach Deutschland zurückkehren anzeigen
+                </span>
+               </label>
+               <a href="/de/leben-in-deutschland/zurueckkehren" id="menuMainChildren66" itemprop="url" title="Nach Deutschland zurückkehren">
+                <span itemprop="name">
+                 Nach Deutschland zurückkehren
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren66Dropdown">
+                <li>
+                 <label for="menuMainChildren66DropdownToggle">
+                  <span>
+                   Nach Deutschland zurückkehren
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/zurueckkehren/sozialversicherung" id="menuMainGrandchildren1251" itemprop="url" title="Sozialversicherung">
+                  <span itemprop="name">
+                   Sozialversicherung
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/zurueckkehren/arbeitslosigkeit" id="menuMainGrandchildren1252" itemprop="url" title="Arbeitslosigkeit">
+                  <span itemprop="name">
+                   Arbeitslosigkeit
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren6963Dropdown" id="menuMainChildren6963DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren6963DropdownToggle">
+                <span>
+                 Einleben anzeigen
+                </span>
+               </label>
+               <a href="/de/leben-in-deutschland/einleben" id="menuMainChildren6963" itemprop="url" title="Einleben">
+                <span itemprop="name">
+                 Einleben
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren6963Dropdown">
+                <li>
+                 <label for="menuMainChildren6963DropdownToggle">
+                  <span>
+                   Einleben
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/einleben/freizeit" id="menuMainGrandchildren6964" itemprop="url" title="Freizeit">
+                  <span itemprop="name">
+                   Freizeit
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/leben-in-deutschland/einleben/freizeit/nuetzliches-alltagswissen" id="menuMainGrandchildren6965" itemprop="url" title="Nützliches Alltagswissen">
+                  <span itemprop="name">
+                   Nützliches Alltagswissen
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+            </div>
+            <div>
+             <div>
+              <div>
+               <figure>
+                <picture>
+                 <source data-srcset="/fileadmin/_processed_/0/3/csm_Fotolia_230936847_S_84c6efb060.jpg" media="(min-width: 75rem)" srcset="/fileadmin/_processed_/0/3/csm_Fotolia_230936847_S_84c6efb060.jpg">
+                  <source data-srcset="/fileadmin/_processed_/0/3/csm_Fotolia_230936847_S_006f01cd9a.jpg" srcset="/fileadmin/_processed_/0/3/csm_Fotolia_230936847_S_006f01cd9a.jpg">
+                   <img alt=""/>
+                   <span>
+                   </span>
+                  </source>
+                 </source>
+                </picture>
+               </figure>
+              </div>
+              <div>
+               <a href="/de/leben-in-deutschland/deutsch-lernen" target="_top" title="Deutsch lernen">
+                Deutsch lernen
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li>
+          <input data-target="menuMainItem5291Dropdown" id="menuMainItem5291DropdownToggle" type="checkbox"/>
+          <label aria-haspopup="true" for="menuMainItem5291DropdownToggle">
+           <span>
+            Service anzeigen
+           </span>
+          </label>
+          <a href="/de/service" id="menuMainItem5291" itemprop="url" title="Service">
+           <span itemprop="name">
+            Service
+           </span>
+          </a>
+          <div id="menuMainItem5291Dropdown">
+           <div data-columns="4">
+            <div data-columns="4">
+             <ul>
+              <li>
+               <label for="menuMainItem5291DropdownToggle">
+                <span>
+                 Service
+                </span>
+               </label>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren71Dropdown" id="menuMainChildren71DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren71DropdownToggle">
+                <span>
+                 Kontakt anzeigen
+                </span>
+               </label>
+               <a href="/de/service/kontakt" id="menuMainChildren71" itemprop="url" title="Kontakt">
+                <span itemprop="name">
+                 Kontakt
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren71Dropdown">
+                <li>
+                 <label for="menuMainChildren71DropdownToggle">
+                  <span>
+                   Kontakt
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/service/kontakt/e-mail" id="menuMainGrandchildren1113" itemprop="url" title="E-Mail">
+                  <span itemprop="name">
+                   E-Mail
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/service/kontakt/hotline" id="menuMainGrandchildren1116" itemprop="url" title="Hotline">
+                  <span itemprop="name">
+                   Hotline
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/service/kontakt/faq" id="menuMainGrandchildren1117" itemprop="url" title="FAQ">
+                  <span itemprop="name">
+                   FAQ
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <input data-target="menuMainChildren5295Dropdown" id="menuMainChildren5295DropdownToggle" type="checkbox"/>
+               <label aria-haspopup="true" for="menuMainChildren5295DropdownToggle">
+                <span>
+                 Beratungs- und Anlaufstellen anzeigen
+                </span>
+               </label>
+               <a href="/de/service/beratung-anlaufstellen" id="menuMainChildren5295" itemprop="url" title="Beratungs- und Anlaufstellen">
+                <span itemprop="name">
+                 Beratungs- und Anlaufstellen
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+               <ul id="menuMainChildren5295Dropdown">
+                <li>
+                 <label for="menuMainChildren5295DropdownToggle">
+                  <span>
+                   Beratungs- und Anlaufstellen
+                  </span>
+                 </label>
+                </li>
+                <li>
+                 <a href="/de/service/beratung-anlaufstellen/weltweit" id="menuMainGrandchildren54" itemprop="url" title="Weltweit">
+                  <span itemprop="name">
+                   Weltweit
+                  </span>
+                 </a>
+                </li>
+                <li>
+                 <a href="/de/service/beratung-anlaufstellen/in-deutschland" id="menuMainGrandchildren5299" itemprop="url" title="In Deutschland">
+                  <span itemprop="name">
+                   In Deutschland
+                  </span>
+                 </a>
+                </li>
+               </ul>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/service/webinare" id="menuMainChildren5357" itemprop="url" title="Webinare">
+                <span itemprop="name">
+                 Webinare
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/service/veranstaltungen" id="menuMainChildren70" itemprop="url" title="Veranstaltungen">
+                <span itemprop="name">
+                 Veranstaltungen
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/service/newsletter" id="menuMainChildren72" itemprop="url" title="Newsletter">
+                <span itemprop="name">
+                 Newsletter
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/service/download-bereich" id="menuMainChildren5310" itemprop="url" title="Download-Bereich">
+                <span itemprop="name">
+                 Download-Bereich
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/service/glossar" id="menuMainChildren23" itemprop="url" title="Glossar">
+                <span itemprop="name">
+                 Glossar
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/service/news" id="menuMainChildren76" itemprop="url" title="News">
+                <span itemprop="name">
+                 News
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+            </div>
+            <div>
+             <div>
+              <div>
+               <figure>
+                <picture>
+                 <source data-srcset="/fileadmin/_processed_/9/5/csm_9_iStock.com_PeopleImages_5ea17a9008.jpg" media="(min-width: 75rem)" srcset="/fileadmin/_processed_/9/5/csm_9_iStock.com_PeopleImages_5ea17a9008.jpg">
+                  <source data-srcset="/fileadmin/_processed_/9/5/csm_9_iStock.com_PeopleImages_151d292bf7.jpg" srcset="/fileadmin/_processed_/9/5/csm_9_iStock.com_PeopleImages_151d292bf7.jpg">
+                   <img alt="Frau arbeitet im Büro vor einem Computer"/>
+                   <span>
+                   </span>
+                  </source>
+                 </source>
+                </picture>
+               </figure>
+              </div>
+              <div>
+               <a href="/de/service/kontakt" title="Haben Sie Fragen?">
+                Haben Sie Fragen?
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li>
+          <input data-target="menuMainItem68Dropdown" id="menuMainItem68DropdownToggle" type="checkbox"/>
+          <label aria-haspopup="true" for="menuMainItem68DropdownToggle">
+           <span>
+            Über uns anzeigen
+           </span>
+          </label>
+          <a href="/de/ueber-uns" id="menuMainItem68" itemprop="url" title="Über uns">
+           <span itemprop="name">
+            Über uns
+           </span>
+          </a>
+          <div id="menuMainItem68Dropdown">
+           <div data-columns="4">
+            <div data-columns="4">
+             <ul>
+              <li>
+               <label for="menuMainItem68DropdownToggle">
+                <span>
+                 Über uns
+                </span>
+               </label>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/ueber-uns/make-it-in-germany" id="menuMainChildren69" itemprop="url" title="Make it in Germany">
+                <span itemprop="name">
+                 Make it in Germany
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/ueber-uns/partnernetzwerk" id="menuMainChildren75" itemprop="url" title="Partnernetzwerk">
+                <span itemprop="name">
+                 Partnernetzwerk
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+             <ul>
+              <li>
+               <a href="/de/ueber-uns/10-jahre" id="menuMainChildren5581" itemprop="url" title="10 Jahre Make it in Germany">
+                <span itemprop="name">
+                 10 Jahre Make it in Germany
+                </span>
+                <span aria-hidden="true">
+                </span>
+               </a>
+              </li>
+             </ul>
+            </div>
+            <div>
+             <div>
+              <div>
+               <figure>
+                <picture>
+                 <source data-srcset="/fileadmin/_processed_/8/4/csm_Fotolia_112973516_S_d343f798f9.jpg" media="(min-width: 75rem)" srcset="/fileadmin/_processed_/8/4/csm_Fotolia_112973516_S_d343f798f9.jpg">
+                  <source data-srcset="/fileadmin/_processed_/8/4/csm_Fotolia_112973516_S_e0d8475aff.jpg" srcset="/fileadmin/_processed_/8/4/csm_Fotolia_112973516_S_e0d8475aff.jpg">
+                   <img alt=""/>
+                   <span>
+                   </span>
+                  </source>
+                 </source>
+                </picture>
+               </figure>
+              </div>
+              <div>
+               <a href="/de/ueber-uns/make-it-in-germany" target="_top" title="Make it in Germany">
+                Make it in Germany
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div>
+           <span>
+            Besuchen Sie die Seite ...
+           </span>
+           <ul>
+            <li>
+             <a href="/de/" title="Für Fachkräfte">
+              Für Fachkräfte
+             </a>
+            </li>
+            <li>
+             <a href="https://www.make-it-in-germany.com/de/unternehmen/" title="Für Arbeitgeber">
+              Für Arbeitgeber
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div>
+           <span>
+            Sie haben Fragen?
+           </span>
+           <nav aria-label="Kontakt-Menü">
+            <ul>
+             <li>
+              <a href="/de/service/kontakt/e-mail">
+               <span>
+                E-Mail
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="/de/service/kontakt/hotline">
+               <span>
+                Telefon
+               </span>
+              </a>
+             </li>
+             <li>
+              <a href="/de/service/kontakt/faq">
+               <span>
+                FAQ
+               </span>
+              </a>
+             </li>
+            </ul>
+           </nav>
+          </div>
+         </li>
+        </ul>
+       </div>
+       <label for="navbarMainToggleInput">
+        <span>
+         Menü ausblenden
+        </span>
+       </label>
+      </nav>
+     </div>
+     <nav aria-label="Kontakt-Menü">
+      <ul>
+       <li>
+        <a href="/de/service/kontakt/e-mail">
+         <span>
+          E-Mail
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="/de/service/kontakt/hotline">
+         <span>
+          Telefon
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="/de/service/kontakt/faq">
+         <span>
+          FAQ
+         </span>
+        </a>
+       </li>
+      </ul>
+     </nav>
+    </div>
+   </div>
+  </header>
+  <main id="main">
+   <!--TYPO3SEARCH_begin-->
+   <div id="c37852">
+    <div>
+     <div>
+      <picture>
+       <source media="(min-width: 87.5rem)" srcset="/fileadmin/_processed_/2/d/csm_1_1_Davide_Angelini_-_stock.adobe.com_e8e6917110.jpeg">
+        <source media="(min-width: 75rem)" srcset="/fileadmin/_processed_/2/d/csm_1_1_Davide_Angelini_-_stock.adobe.com_e96796afbd.jpeg">
+         <source media="(min-width: 62rem)" srcset="/fileadmin/_processed_/2/d/csm_1_1_Davide_Angelini_-_stock.adobe.com_3c493852d0.jpeg">
+          <source media="(min-width: 48rem)" srcset="/fileadmin/_processed_/2/d/csm_1_1_Davide_Angelini_-_stock.adobe.com_d1d0029e92.jpeg">
+           <source srcset="/fileadmin/_processed_/2/d/csm_1_1_Davide_Angelini_-_stock.adobe.com_cfe78253e3.jpeg">
+            <img alt="Internationale Jugendgruppe in Deutschland"/>
+           </source>
+          </source>
+         </source>
+        </source>
+       </source>
+      </picture>
+     </div>
+     <div>
+      <div>
+       <header>
+        <h1>
+         Quick-Check
+        </h1>
+       </header>
+       <form action="/de/visum-aufenthalt/quick-check?tx_clickflow_flow%5Baction%5D=preselect&amp;tx_clickflow_flow%5Bcontroller%5D=Flow&amp;cHash=5e3cbfcd2812c4b30b94e24736da797f#c52887" data-novalidate="1" data-parsley-validate="" data-tracking-action="quickcheck-fk" data-tracking-event="clickflow_preselect" method="post" novalidate="true">
+        <div>
+         <input name="tx_clickflow_flow[__referrer][@extension]" type="hidden" value="Basetpl"/>
+         <input name="tx_clickflow_flow[__referrer][@controller]" type="hidden" value="Flow"/>
+         <input name="tx_clickflow_flow[__referrer][@action]" type="hidden" value="clickFlowStage"/>
+         <input name="tx_clickflow_flow[__referrer][arguments]" type="hidden" value="YTowOnt9ff0b4f372d7eddf78796ae19e2e33e2eb4cb238d"/>
+         <input name="tx_clickflow_flow[__referrer][@request]" type="hidden" value='{"@extension":"Basetpl","@controller":"Flow","@action":"clickFlowStage"}e9f19df1d2c3a8002d46ef562fafd21881e0910c'/>
+         <input name="tx_clickflow_flow[__trustedProperties]" type="hidden" value='{"answer":1}dfe5714421f9e891c2a246e65bfa93d72eb5c912'/>
+        </div>
+        <div>
+         <div>
+          <p>
+           Prüfen Sie hier Ihre Möglichkeiten, in Deutschland zu arbeiten und zu leben.
+          </p>
+         </div>
+         <div>
+          <div>
+           <p hidden="" id="clickflowform-[data.uid}-answer-errors" role="alert">
+            <span>
+            </span>
+           </p>
+           <select data-parsley-errors-container="#clickflowform-[data.uid}-answer-errors" data-parsley-required="true" data-parsley-required-message="Dieses Feld ist ein Pflichtfeld." data-parsley-trigger="change" data-track-option="1" data-tracking-name="step" id="quickcheckPreelected" name="tx_clickflow_flow[answer]" required="required">
+            <option disabled="disabled" selected="selected" value="">
+             Ich möchte...
+            </option>
+            <option data-tracking-value="arbeiten" value="4">
+             arbeiten.
+            </option>
+            <option data-tracking-value="studieren" value="5">
+             studieren.
+            </option>
+            <option data-tracking-value="eine-ausbildung-machen" value="16">
+             eine Ausbildung machen.
+            </option>
+            <option data-tracking-value="eine-existenz-gruenden" value="17">
+             eine Existenz gründen.
+            </option>
+            <option data-tracking-value="forschen" value="18">
+             forschen.
+            </option>
+           </select>
+          </div>
+          <div>
+           <button type="submit">
+            Starten
+           </button>
+          </div>
+         </div>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!--TYPO3SEARCH_end-->
+   <!--TYPO3SEARCH_begin-->
+   <div id="c52111">
+    <div>
+     <div>
+      <figure itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+       <picture>
+        <img alt="Fröhliche Gruppe von Menschen in Deutschland"/>
+        <span>
+        </span>
+       </picture>
+       <meta content="https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/0_Startseite_FK/Davide_Zanin_-_stock.adobe.com.jpeg" itemprop="url"/>
+       <meta content="650" itemprop="width"/>
+       <meta content="" itemprop="height"/>
+       <figcaption>
+        <span>
+         © Davide Zanin – stock.adobe.com
+        </span>
+       </figcaption>
+      </figure>
+     </div>
+     <div>
+      <header>
+       <h2>
+        Warum Deutschland?!
+       </h2>
+      </header>
+      <p>
+       Freiheit, Vielfalt und Stabilität. Entdecken Sie die zahlreichen Vorzüge, die Deutschland zu bieten hat! Hier erwarten Sie ein hoher Lebensstandard, faire Arbeitsbedingungen und ein starker gesellschaftlicher Zusammenhalt. Freiheitliche Grundrechte und eine stabile Demokratie garantieren Ihnen ein selbstbestimmtes und sicheres Leben. Lesen Sie hier, warum Deutschland Ihre neue Wahlheimat werden sollte!
+      </p>
+     </div>
+     <p>
+      <a href="/de/leben-in-deutschland/deutschland-kennenlernen/warum-deutschland" title="Mehr dazu">
+       Mehr dazu
+      </a>
+     </p>
+    </div>
+   </div>
+   <div id="c55071">
+    <div>
+     <div>
+      <figure itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+       <picture>
+        <img alt="Mann mit einem Reisepass"/>
+        <span>
+        </span>
+       </picture>
+       <meta content="https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/3_Visum_u_Aufenthalt/1.20_Nicolas_F_-_stock.adobe.com.jpeg" itemprop="url"/>
+       <meta content="650" itemprop="width"/>
+       <meta content="" itemprop="height"/>
+       <figcaption>
+        <span>
+         © Nicolas F – stock.adobe.com
+        </span>
+       </figcaption>
+      </figure>
+     </div>
+     <div>
+      <header>
+       <h2>
+        Ihr Ticket zur Jobsuche in Deutschland: Die Chancenkarte
+       </h2>
+      </header>
+      <p>
+       Sie möchten in Deutschland arbeiten? Mit der Chancenkarte zur Jobsuche können Sie gezielt nach einer qualifizierten Stelle in Deutschland suchen. Erfahren Sie alles über die Chancenkarte und prüfen Sie mit dem Self-Check, ob Sie die Voraussetzungen erfüllen.
+      </p>
+     </div>
+     <p>
+      <a href="/de/visum-aufenthalt/arten/chancenkarte-jobsuche" title="Mehr zur Chancenkarte">
+       Mehr zur Chancenkarte
+      </a>
+     </p>
+    </div>
+   </div>
+   <div id="c51225">
+    <div>
+     <div>
+      <figure itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+       <picture>
+        <img alt="Reisepass wird abgestempelt"/>
+        <span>
+        </span>
+       </picture>
+       <meta content="https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/3_Visum_u_Aufenthalt/1.19_New_Africa_-_stock.adobe.com.jpeg" itemprop="url"/>
+       <meta content="650" itemprop="width"/>
+       <meta content="" itemprop="height"/>
+       <figcaption>
+        <span>
+         © New Africa – stock.adobe.com
+        </span>
+       </figcaption>
+      </figure>
+     </div>
+     <div>
+      <header>
+       <h2>
+        Novellierung des Fachkräfteeinwanderungs­gesetzes
+       </h2>
+      </header>
+      <p>
+       Mit der Neufassung des Fachkräfteeinwanderungsgesetzes schafft die Bundesregierung attraktive Perspektiven für internationale Fachkräfte. Der Zuzug von Fachkräften mit Berufsausbildung sowie Personen mit berufspraktischem Fachwissen wird erleichtert. Wir informieren Sie über die Änderungen und neuen Chancen für die Erwerbstätigkeit in Deutschland.
+      </p>
+     </div>
+     <p>
+      <a href="/de/visum-aufenthalt/fachkraefteeinwanderungsgesetz" title="Mehr dazu">
+       Mehr dazu
+      </a>
+     </p>
+    </div>
+   </div>
+   <div id="c48155">
+    <div>
+     <div>
+      <figure itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+       <picture>
+        <img alt="Fachkraft aus dem Ausland arbeitet in Deutschland "/>
+        <span>
+        </span>
+       </picture>
+       <meta content="https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/0_Startseite_FK/2_Moon_Safari_-_stock.adobe.com.jpeg" itemprop="url"/>
+       <meta content="650" itemprop="width"/>
+       <meta content="" itemprop="height"/>
+       <figcaption>
+        <span>
+         © Moon Safari – stock.adobe.com
+        </span>
+       </figcaption>
+      </figure>
+     </div>
+     <div>
+      <header>
+       <h2>
+        Jobbörse
+       </h2>
+      </header>
+      <p>
+       Finden Sie den Job, der zu Ihren Qualifikationen passt.
+       <br/>
+       Die „Make it in Germany“ - Jobbörse hält tausende interessante Stellenangebote in Deutschland für Sie bereit.
+      </p>
+     </div>
+     <p>
+      <a href="/de/arbeiten-in-deutschland/jobboerse" title="Zu den Jobs">
+       Zu den Jobs
+      </a>
+     </p>
+    </div>
+   </div>
+   <div id="c47467">
+    <div>
+     <figure itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+      <picture>
+       <source data-srcset="/fileadmin/_processed_/4/b/csm_H_7_Simon_Dux_-_stock.adobe.com_67fc01c7b5.jpeg" media="(min-width: 87.5rem)" srcset="/fileadmin/_processed_/4/b/csm_H_7_Simon_Dux_-_stock.adobe.com_67fc01c7b5.jpeg">
+        <source data-srcset="/fileadmin/_processed_/4/b/csm_H_7_Simon_Dux_-_stock.adobe.com_90583581e2.jpeg" media="(min-width: 75rem)" srcset="/fileadmin/_processed_/4/b/csm_H_7_Simon_Dux_-_stock.adobe.com_90583581e2.jpeg">
+         <source data-srcset="/fileadmin/_processed_/4/b/csm_H_7_Simon_Dux_-_stock.adobe.com_c06b5ba81e.jpeg" media="(min-width: 62rem)" srcset="/fileadmin/_processed_/4/b/csm_H_7_Simon_Dux_-_stock.adobe.com_c06b5ba81e.jpeg">
+          <source data-srcset="/fileadmin/_processed_/4/b/csm_H_7_Simon_Dux_-_stock.adobe.com_b39ccebf0a.jpeg" media="(min-width: 48rem)" srcset="/fileadmin/_processed_/4/b/csm_H_7_Simon_Dux_-_stock.adobe.com_b39ccebf0a.jpeg">
+           <source data-srcset="/fileadmin/_processed_/4/b/csm_H_7_Simon_Dux_-_stock.adobe.com_7edb260651.jpeg" srcset="/fileadmin/_processed_/4/b/csm_H_7_Simon_Dux_-_stock.adobe.com_7edb260651.jpeg">
+            <img alt="Ansicht von Freiburg im Breisgau"/>
+            <span>
+            </span>
+           </source>
+          </source>
+         </source>
+        </source>
+       </source>
+      </picture>
+     </figure>
+     <div>
+      <div data-columns="1">
+       <div aria-roledescription="carousel" id="splide01" role="region">
+        <div>
+         <div>
+          <button aria-controls="splide01-track" aria-label="Previous slide" disabled="" type="button">
+          </button>
+          <button aria-controls="splide01-track" aria-label="Next slide" type="button">
+          </button>
+         </div>
+         <div aria-atomic="true" aria-live="polite" id="splide01-track" style="padding-left: 0px; padding-right: 0px;">
+          <div id="splide01-list" role="presentation" style="transform: translateX(0px);">
+           <div aria-label="1 of 5" aria-roledescription="slide" id="splide01-slide01" role="tabpanel" style="margin-right: 20px; width: calc(33.3333% - 13.3333px);">
+            <span id="c47466">
+            </span>
+            <div>
+             <a href="/de/visum-aufenthalt/arten" title="Mehr erfahren über: „Welche Visa-Möglichkeiten gibt es in Deutschland?“">
+              <span>
+               Mehr erfahren über: „Welche Visa-Möglichkeiten gibt es in Deutschland?“
+              </span>
+             </a>
+             <div>
+              <figure>
+               <picture>
+                <img alt="International student in Berlin"/>
+                <span>
+                </span>
+               </picture>
+              </figure>
+             </div>
+             <div>
+              <header>
+               <h3 data-buffer="Starten Sie Ihre Karriere in Deutschland als Berufskraftfahrer, Lokführer oder in der Schifffahrt" data-header-buffer="" style="height: 65px;">
+                <span>
+                 Welche Visa-Möglichkeiten gibt es in Deutschland?
+                </span>
+               </h3>
+              </header>
+              <p>
+              </p>
+             </div>
+             <p>
+              <a href="/de/visum-aufenthalt/arten" title="Mehr erfahren über: „Welche Visa-Möglichkeiten gibt es in Deutschland?“">
+               Mehr dazu
+              </a>
+             </p>
+            </div>
+           </div>
+           <div aria-label="2 of 5" aria-roledescription="slide" id="splide01-slide02" role="tabpanel" style="margin-right: 20px; width: calc(33.3333% - 13.3333px);">
+            <span id="c47465">
+            </span>
+            <div>
+             <a href="/de/service/beratung-anlaufstellen/weltweit" title="Mehr erfahren über: „Visa, Studium oder Deutsch lernen? Hier finden Sie Ansprechpartner weltweit “">
+              <span>
+               Mehr erfahren über: „Visa, Studium oder Deutsch lernen? Hier finden Sie Ansprechpartner weltweit “
+              </span>
+             </a>
+             <div>
+              <figure>
+               <picture>
+                <img alt="Digitale Weltkugel auf einem Smartphone"/>
+                <span>
+                </span>
+               </picture>
+              </figure>
+             </div>
+             <div>
+              <header>
+               <h3 data-buffer="Starten Sie Ihre Karriere in Deutschland als Berufskraftfahrer, Lokführer oder in der Schifffahrt" data-header-buffer="" style="height: 65px;">
+                <span>
+                 Visa, Studium oder Deutsch lernen? Hier finden Sie Ansprechpartner weltweit
+                </span>
+               </h3>
+              </header>
+              <p>
+              </p>
+             </div>
+             <p>
+              <a href="/de/service/beratung-anlaufstellen/weltweit" title="Mehr erfahren über: „Visa, Studium oder Deutsch lernen? Hier finden Sie Ansprechpartner weltweit “">
+               Mehr dazu
+              </a>
+             </p>
+            </div>
+           </div>
+           <div aria-label="3 of 5" aria-roledescription="slide" id="splide01-slide03" role="tabpanel" style="margin-right: 20px; width: calc(33.3333% - 13.3333px);">
+            <span id="c48157">
+            </span>
+            <div>
+             <a href="/de/arbeiten-in-deutschland/gefragte-berufe" title="Mehr erfahren über: „Karriere in Deutschland: Erfahren Sie, welche Berufe besonders gefragt sind“">
+              <span>
+               Mehr erfahren über: „Karriere in Deutschland: Erfahren Sie, welche Berufe besonders gefragt sind“
+              </span>
+             </a>
+             <div>
+              <figure>
+               <picture>
+                <img alt="Internationale Ingenieurin bei der Arbeit"/>
+                <span>
+                </span>
+               </picture>
+              </figure>
+             </div>
+             <div>
+              <header>
+               <h3 data-buffer="Starten Sie Ihre Karriere in Deutschland als Berufskraftfahrer, Lokführer oder in der Schifffahrt" data-header-buffer="" style="height: 65px;">
+                <span>
+                 Karriere in Deutschland: Erfahren Sie, welche Berufe besonders gefragt sind
+                </span>
+               </h3>
+              </header>
+              <p>
+              </p>
+             </div>
+             <p>
+              <a href="/de/arbeiten-in-deutschland/gefragte-berufe" title="Mehr erfahren über: „Karriere in Deutschland: Erfahren Sie, welche Berufe besonders gefragt sind“">
+               Mehr dazu
+              </a>
+             </p>
+            </div>
+           </div>
+           <div aria-hidden="true" aria-label="4 of 5" aria-roledescription="slide" id="splide01-slide04" role="tabpanel" style="margin-right: 20px; width: calc(33.3333% - 13.3333px);">
+            <span id="c50941">
+            </span>
+            <div>
+             <a href="/de/arbeiten-in-deutschland/gefragte-berufe/transport-berufe" tabindex="-1" title="Mehr erfahren über: „Starten Sie Ihre Karriere in Deutschland als Berufskraftfahrer, Lokführer oder in der Schifffahrt“">
+              <span>
+               Mehr erfahren über: „Starten Sie Ihre Karriere in Deutschland als Berufskraftfahrer, Lokführer oder in der Schifffahrt“
+              </span>
+             </a>
+             <div>
+              <figure>
+               <picture>
+                <img alt="Berufskrfatfahrerin vor LKWs"/>
+                <span>
+                </span>
+               </picture>
+              </figure>
+             </div>
+             <div>
+              <header>
+               <h3 data-buffer="Starten Sie Ihre Karriere in Deutschland als Berufskraftfahrer, Lokführer oder in der Schifffahrt" data-header-buffer="" style="height: 65px;">
+                <span>
+                 Starten Sie Ihre Karriere in Deutschland als Berufskraftfahrer, Lokführer oder in der Schifffahrt
+                </span>
+               </h3>
+              </header>
+              <p>
+              </p>
+             </div>
+             <p>
+              <a href="/de/arbeiten-in-deutschland/gefragte-berufe/transport-berufe" tabindex="-1" title="Mehr erfahren über: „Starten Sie Ihre Karriere in Deutschland als Berufskraftfahrer, Lokführer oder in der Schifffahrt“">
+               Mehr dazu
+              </a>
+             </p>
+            </div>
+           </div>
+           <div aria-hidden="true" aria-label="5 of 5" aria-roledescription="slide" id="splide01-slide05" role="tabpanel" style="margin-right: 20px; width: calc(33.3333% - 13.3333px);">
+            <span id="c48112">
+            </span>
+            <div>
+             <a href="/de/leben-in-deutschland/mit-familie" tabindex="-1" title="Mehr erfahren über: „Mit der Familie in Deutschland leben: So funktioniert der Familiennachzug“">
+              <span>
+               Mehr erfahren über: „Mit der Familie in Deutschland leben: So funktioniert der Familiennachzug“
+              </span>
+             </a>
+             <div>
+              <figure>
+               <picture>
+                <img alt="Eine internationale Familie trifft sich am Flughafen"/>
+                <span>
+                </span>
+               </picture>
+              </figure>
+             </div>
+             <div>
+              <header>
+               <h3 data-buffer="Starten Sie Ihre Karriere in Deutschland als Berufskraftfahrer, Lokführer oder in der Schifffahrt" data-header-buffer="" style="height: 65px;">
+                <span>
+                 Mit der Familie in Deutschland leben: So funktioniert der Familiennachzug
+                </span>
+               </h3>
+              </header>
+              <p>
+              </p>
+             </div>
+             <p>
+              <a href="/de/leben-in-deutschland/mit-familie" tabindex="-1" title="Mehr erfahren über: „Mit der Familie in Deutschland leben: So funktioniert der Familiennachzug“">
+               Mehr dazu
+              </a>
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <ul aria-label="Select a slide to show" role="tablist">
+         <li role="presentation">
+          <button aria-controls="splide01-slide01 splide01-slide02 splide01-slide03" aria-label="Go to page 1" aria-selected="true" role="tab" type="button">
+          </button>
+         </li>
+         <li role="presentation">
+          <button aria-controls="splide01-slide03 splide01-slide04 splide01-slide05" aria-label="Go to page 2" role="tab" tabindex="-1" type="button">
+          </button>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="c47048">
+    <div data-schema="red">
+     <div>
+      <figure itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+       <picture>
+        <img alt="Internationale Fachkräfte arbeiten in Deutschland"/>
+        <span>
+        </span>
+       </picture>
+       <meta content="https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/0_Startseite_FK/7_kerkezz_-_stock.adobe.com.jpeg" itemprop="url"/>
+       <meta content="650" itemprop="width"/>
+       <meta content="" itemprop="height"/>
+       <figcaption>
+        <span>
+         © kerkezz – stock.adobe.com
+        </span>
+       </figcaption>
+      </figure>
+     </div>
+     <div>
+      <header>
+       <h2>
+        Für Arbeitgeber: Blicken Sie ins Ausland
+       </h2>
+      </header>
+      <p>
+       Es gibt gute Gründe, Fachkräfte aus dem Ausland zu gewinnen. Wir erklären Ihnen, wie Sie Schritt für Schritt Ihre internationale Fachkraft finden.
+      </p>
+     </div>
+     <p>
+      <a href="https://www.make-it-in-germany.com/de/unternehmen/" target="_blank" title="Mehr für Arbeitgeber">
+       Mehr für Arbeitgeber
+      </a>
+     </p>
+    </div>
+   </div>
+   <div id="c52210">
+    <div>
+     <div>
+      <div data-focus-id="video17442" data-privacy-link-text="Für Ihre Zustimmung bitte hier klicken" data-privacy-service="YouTube" data-privacy-text="Wir nutzen externe Provider und Dienstleister zur Darstellung dieses Services. Diese sammeln persönliche Nutzerinformationen über Ihre Aktivitäten. Bitte beachten Sie die Hinweise in unserer Datenschutzerklärung." data-privacy-title="Ihre Einwilligung wird benötigt" data-toggle="false">
+       <div>
+        <img alt=""/>
+        <span>
+        </span>
+       </div>
+       <button>
+        <span>
+         Video abspielen
+        </span>
+       </button>
+       <template>
+        <div>
+         <div data-embed-id="q0uj2F-wzhU" data-provider="youtube" id="player17442">
+         </div>
+        </div>
+       </template>
+      </div>
+     </div>
+     <div>
+      <header>
+       <h2>
+        We made it: Familiennachzug
+       </h2>
+      </header>
+      <p>
+       Rosalia und Roberto aus Mexiko haben es geschafft! Sie haben den Familiennachzug genutzt, um ihren gemeinsamen Traum zu verwirklichen: in Deutschland zu leben und zu arbeiten. In diesem Video erzählt das Ehepaar wie sie Visum, Wohnung und Job organisiert haben und welche Hürden sie für ihren Neustart in Deutschland gemeistert haben.
+      </p>
+     </div>
+    </div>
+   </div>
+   <div id="c47049">
+    <div>
+     <div aria-roledescription="carousel" data-splide='{"gap": 0}' id="splide02" role="region">
+      <div>
+       <div>
+        <button aria-controls="splide02-track" aria-label="Previous slide" disabled="" type="button">
+        </button>
+        <button aria-controls="splide02-track" aria-label="Next slide" disabled="" type="button">
+        </button>
+       </div>
+       <div aria-atomic="true" aria-live="polite" id="splide02-track" style="padding-left: 0px; padding-right: 0px;">
+        <div id="splide02-list" role="presentation" style="transform: translateX(0px);">
+         <div aria-label="1 of 3" aria-roledescription="slide" id="splide02-slide01" role="tabpanel" style="width: calc(33.3333%);">
+          <div>
+           <header>
+            <h3>
+             157.924
+            </h3>
+           </header>
+           <p>
+            Visa zum Zweck der Erwerbstätigkeit wurden im Jahr 2023 erteilt.
+           </p>
+          </div>
+         </div>
+         <div aria-label="2 of 3" aria-roledescription="slide" id="splide02-slide02" role="tabpanel" style="width: calc(33.3333%);">
+          <div>
+           <header>
+            <h3>
+             113.500
+            </h3>
+           </header>
+           <p>
+            Personen in Deutschland waren 2023 im Besitz einer Blauen Karte EU.
+           </p>
+          </div>
+         </div>
+         <div aria-label="3 of 3" aria-roledescription="slide" id="splide02-slide03" role="tabpanel" style="width: calc(33.3333%);">
+          <div>
+           <header>
+            <h3>
+             270.000
+            </h3>
+           </header>
+           <p>
+            Pflegekräfte aus dem Ausland waren 2024 in Deutschland tätig.
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <ul aria-label="Select a slide to show" role="tablist">
+       <li role="presentation">
+        <button aria-controls="splide02-slide01 splide02-slide02 splide02-slide03" aria-label="Go to page 1" aria-selected="true" role="tab" type="button">
+        </button>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div>
+     <div>
+      <div>
+       <div>
+        <div>
+         <span>
+          02
+         </span>
+         <span>
+          April
+         </span>
+        </div>
+        <div>
+         <div>
+          <a data-tracking-event="event_link" data-tracking-link="https://join.next.edudip.com/en/webinar/vocational-training-in-germany-20/2092020" data-tracking-type="external" href="https://join.next.edudip.com/en/webinar/vocational-training-in-germany-20/2092020" rel="noopener noreferrer" target="_blank">
+           <span>
+            WebTutorial: Vocational Training in Germany 2.0 (auf Deutsch)
+           </span>
+          </a>
+         </div>
+         <ol>
+          <li>
+           <span>
+            02.04.2025
+           </span>
+          </li>
+          <li>
+           <span>
+            Online
+           </span>
+          </li>
+         </ol>
+        </div>
+       </div>
+       <div>
+        <div>
+         <span>
+          02
+         </span>
+         <span>
+          April
+         </span>
+        </div>
+        <div>
+         <div>
+          <a data-tracking-event="event_link" data-tracking-link="https://us06web.zoom.us/webinar/register/WN_iQuOfg24QHiRlW3hYxAV_g" data-tracking-type="external" href="https://us06web.zoom.us/webinar/register/WN_iQuOfg24QHiRlW3hYxAV_g" rel="noopener noreferrer" target="_blank">
+           <span>
+            Bienvenidos a Baden-Wuerttemberg: Qué visa necesitas para Alemania (auf Spanisch)
+           </span>
+          </a>
+         </div>
+         <ol>
+          <li>
+           <span>
+            02.04.2025
+           </span>
+          </li>
+          <li>
+           <span>
+            Online
+           </span>
+          </li>
+         </ol>
+        </div>
+       </div>
+       <div>
+        <div>
+         <span>
+          09
+         </span>
+         <span>
+          April
+         </span>
+        </div>
+        <div>
+         <div>
+          <a data-tracking-event="event_link" data-tracking-link="https://www.welcomecenter-hnf.com/veranstaltungen/aktuelle-veranstaltungen.html" data-tracking-type="external" href="https://www.welcomecenter-hnf.com/veranstaltungen/aktuelle-veranstaltungen.html" rel="noopener noreferrer" target="_blank">
+           <span>
+            Online Jobcafé - Application documents (auf Englisch)
+           </span>
+          </a>
+         </div>
+         <ol>
+          <li>
+           <span>
+            09.04.2025
+           </span>
+          </li>
+          <li>
+           <span>
+            Online
+           </span>
+          </li>
+         </ol>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div>
+      <h2>
+       Veranstaltungen zum Leben und Arbeiten in Deutschland
+      </h2>
+      <p>
+       Hier finden Sie Veranstaltungen und Workshops, die Ihnen bei Ihrer Karriere und dem Einleben in Deutschland helfen - online oder in Ihrer Nähe.
+      </p>
+     </div>
+     <p>
+      <a href="/de/service/veranstaltungen" target="_blank" title="Mehr dazu">
+       Mehr dazu
+      </a>
+     </p>
+    </div>
+   </div>
+   <div id="c48393">
+    <div>
+     <div>
+      <figure itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+       <picture>
+        <img alt="Internationale Fachkräfte arbeiten zusammen in einem deutschen Unternehmen"/>
+        <span>
+        </span>
+       </picture>
+       <meta content="https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/0_Startseite_FK/8_Liubomir_-_stock.adobe.com.jpeg" itemprop="url"/>
+       <meta content="650" itemprop="width"/>
+       <meta content="" itemprop="height"/>
+       <figcaption>
+        <span>
+         © Liubomir – stock.adobe.com
+        </span>
+       </figcaption>
+      </figure>
+     </div>
+     <div>
+      <header>
+       <h2>
+        Make IT in Germany: IT-Experten gesucht
+       </h2>
+      </header>
+      <p>
+       Sie suchen neue Herausforderungen in der IT-Branche? Deutschland bietet hervorragende Karrierechancen für IT-Spezialisten.
+      </p>
+     </div>
+     <p>
+      <a href="/en/working-in-germany/it-specialist-in-germany" target="_blank" title="Mehr dazu">
+       Mehr dazu
+      </a>
+     </p>
+    </div>
+   </div>
+   <!--TYPO3SEARCH_end-->
+   <div id="c47051">
+    <div>
+     <div>
+      <header>
+       <h2>
+        Sie haben Fragen?
+       </h2>
+      </header>
+      <p>
+       Lassen Sie sich zu Ihren Möglichkeiten, in Deutschland zu arbeiten und zu leben, beraten. Unsere Fachleute unterstützen Sie bei Fragen zu Jobsuche, Visum, Anerkennung und Deutsch lernen.
+      </p>
+      <p>
+       Mehr zu den verschiedenen Kontaktmöglichkeiten erfahren Sie durch Klick auf die Symbole in der unteren Leiste.
+      </p>
+     </div>
+     <div>
+      <figure>
+       <picture>
+        <source data-srcset="/fileadmin/_processed_/9/5/csm_9_iStock.com_PeopleImages_842bb77831.jpg" media="(min-width: 100rem)" srcset="/fileadmin/_processed_/9/5/csm_9_iStock.com_PeopleImages_842bb77831.jpg">
+         <source data-srcset="/fileadmin/_processed_/9/5/csm_9_iStock.com_PeopleImages_abea390b13.jpg" media="(min-width: 87.5rem)" srcset="/fileadmin/_processed_/9/5/csm_9_iStock.com_PeopleImages_abea390b13.jpg">
+          <source data-srcset="/fileadmin/_processed_/9/5/csm_9_iStock.com_PeopleImages_af2d433275.jpg" media="(min-width: 75rem)" srcset="/fileadmin/_processed_/9/5/csm_9_iStock.com_PeopleImages_af2d433275.jpg">
+           <source data-srcset="/fileadmin/_processed_/9/5/csm_9_iStock.com_PeopleImages_00299ae467.jpg" media="(min-width: 62rem)" srcset="/fileadmin/_processed_/9/5/csm_9_iStock.com_PeopleImages_00299ae467.jpg">
+            <source data-srcset="/fileadmin/_processed_/9/5/csm_9_iStock.com_PeopleImages_35e2be275e.jpg" media="(min-width: 48rem)" srcset="/fileadmin/_processed_/9/5/csm_9_iStock.com_PeopleImages_35e2be275e.jpg">
+             <img alt="Frau arbeitet im Büro vor einem Computer"/>
+             <span>
+             </span>
+            </source>
+           </source>
+          </source>
+         </source>
+        </source>
+       </picture>
+      </figure>
+     </div>
+    </div>
+    <div>
+     <ul>
+      <li>
+       <a href="/de/service/kontakt/e-mail" title="Mehr erfahren über: „E-Mail“">
+        <span>
+         Mehr erfahren über: „E-Mail“
+        </span>
+       </a>
+       <span>
+        E-Mail
+       </span>
+      </li>
+      <li>
+       <a href="/de/service/kontakt/hotline" title="Mehr erfahren über: „Hotline“">
+        <span>
+         Mehr erfahren über: „Hotline“
+        </span>
+       </a>
+       <span>
+        Hotline
+       </span>
+      </li>
+      <li>
+       <a href="/de/service/kontakt/faq" title="Mehr erfahren über: „FAQ“">
+        <span>
+         Mehr erfahren über: „FAQ“
+        </span>
+       </a>
+       <span>
+        FAQ
+       </span>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div data-columns="1" id="c47052">
+    <figure itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+     <picture>
+      <source data-srcset="/fileadmin/_processed_/5/1/csm_10_iStock.com_fotoVoyager_a3bf42244c.jpg" media="(min-width: 100rem)" srcset="/fileadmin/_processed_/5/1/csm_10_iStock.com_fotoVoyager_a3bf42244c.jpg">
+       <source data-srcset="/fileadmin/_processed_/5/1/csm_10_iStock.com_fotoVoyager_ffeb9cdd70.jpg" media="(min-width: 87.5rem)" srcset="/fileadmin/_processed_/5/1/csm_10_iStock.com_fotoVoyager_ffeb9cdd70.jpg">
+        <source data-srcset="/fileadmin/_processed_/5/1/csm_10_iStock.com_fotoVoyager_ab2c2d87ae.jpg" media="(min-width: 75rem)" srcset="/fileadmin/_processed_/5/1/csm_10_iStock.com_fotoVoyager_ab2c2d87ae.jpg">
+         <source data-srcset="/fileadmin/_processed_/5/1/csm_10_iStock.com_fotoVoyager_a03c345d3d.jpg" media="(min-width: 62rem)" srcset="/fileadmin/_processed_/5/1/csm_10_iStock.com_fotoVoyager_a03c345d3d.jpg">
+          <source data-srcset="/fileadmin/_processed_/5/1/csm_10_iStock.com_fotoVoyager_89aa718353.jpg" media="(min-width: 48rem)" srcset="/fileadmin/_processed_/5/1/csm_10_iStock.com_fotoVoyager_89aa718353.jpg">
+           <source data-srcset="/fileadmin/_processed_/5/1/csm_10_iStock.com_fotoVoyager_e6f8cd1a09.jpg" srcset="/fileadmin/_processed_/5/1/csm_10_iStock.com_fotoVoyager_e6f8cd1a09.jpg">
+            <img alt="Hamburger Stadtlandschaft"/>
+            <span>
+            </span>
+           </source>
+          </source>
+         </source>
+        </source>
+       </source>
+      </source>
+     </picture>
+    </figure>
+   </div>
+  </main>
+  <footer id="footer">
+   <nav aria-label="Top-Links-Menü">
+    <div>
+     <ul>
+      <li>
+       <span>
+        Top Themen
+       </span>
+       <ul>
+        <li>
+         <a href="/de/visum-aufenthalt/fachkraefteeinwanderungsgesetz" id="menuFooterChildren5324" itemprop="url" title="Fachkräfteeinwanderungsgesetz">
+          <span itemprop="name">
+           Fachkräfteeinwanderungsgesetz
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/en/working-in-germany/it-specialist-in-germany" id="menuFooterChildren5323" itemprop="url" title="Arbeiten als IT-Fachkraft">
+          <span itemprop="name">
+           Arbeiten als IT-Fachkraft
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/de/arbeiten-in-deutschland/jobboerse" id="menuFooterChildren5326" itemprop="url" title="Jobbörse">
+          <span itemprop="name">
+           Jobbörse
+          </span>
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <ul>
+      <li>
+       <span>
+        Wichtige Adressen und Service
+       </span>
+       <ul>
+        <li>
+         <a href="/de/service/beratung-anlaufstellen/weltweit" id="menuFooterChildren5366" itemprop="url" title="Beratungsstellen weltweit">
+          <span itemprop="name">
+           Beratungsstellen weltweit
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/de/service/beratung-anlaufstellen/in-deutschland" id="menuFooterChildren5367" itemprop="url" title="Beratungsstellen in Deutschland">
+          <span itemprop="name">
+           Beratungsstellen in Deutschland
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="/de/service/download-bereich" id="menuFooterChildren5368" itemprop="url" title="Download-Bereich">
+          <span itemprop="name">
+           Download-Bereich
+          </span>
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </nav>
+   <nav aria-label="Meta-Menü">
+    <div>
+     <ul>
+      <li>
+       <a href="/de/footer-meta/gebaerdensprache" id="menuMetaItem1559" itemprop="url" title="Gebärdensprache">
+        <span itemprop="name">
+         Gebärdensprache
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="/de/footer-meta/leichte-sprache" id="menuMetaItem90" itemprop="url" title="Leichte Sprache">
+        <span itemprop="name">
+         Leichte Sprache
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="/de/footer-meta/barrierefreiheit" id="menuMetaItem5243" itemprop="url" title="Barrierefreiheit">
+        <span itemprop="name">
+         Barrierefreiheit
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="/de/service/kontakt/faq" id="menuMetaItem91" itemprop="url" title="FAQ">
+        <span itemprop="name">
+         FAQ
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="/de/footer-meta/impressum" id="menuMetaItem93" itemprop="url" title="Impressum">
+        <span itemprop="name">
+         Impressum
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="/de/footer-meta/datenschutzerklaerung" id="menuMetaItem94" itemprop="url" title="Datenschutzerklärung">
+        <span itemprop="name">
+         Datenschutzerklärung
+        </span>
+       </a>
+      </li>
+      <li>
+       <button>
+        <span itemprop="name">
+         Datenschutzeinstellungen
+        </span>
+       </button>
+      </li>
+      <li>
+       <input data-target="footer-credits" id="menuMetaItemCreditsDropdownToggle" type="checkbox"/>
+       <label for="menuMetaItemCreditsDropdownToggle">
+        <span>
+         Bildnachweis
+        </span>
+       </label>
+      </li>
+     </ul>
+     <ul>
+      <li>
+       <a href="https://www.instagram.com/makeitingermany_official" rel="noreferrer" target="_blank" title="Instagram">
+        <span>
+         Instagram
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.linkedin.com/company/make-it-in-germany" rel="noreferrer" target="_blank" title="LinkedIn">
+        <span>
+         LinkedIn
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="https://www.youtube.com/channel/UCNzqd4kCgP523WInjCNQNQQ" rel="noreferrer" target="_blank" title="YouTube">
+        <span>
+         YouTube
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="https://twitter.com/MakeitinGermany" rel="noreferrer" target="_blank" title="X (vorher: Twitter)">
+        <span>
+         X (vorher: Twitter)
+        </span>
+       </a>
+      </li>
+     </ul>
+    </div>
+   </nav>
+   <div id="footer-credits">
+    <div>
+     <div>
+      <ul>
+       <li>
+        <a href="/assets/Icons/Default/sprite.svg?2b34f6b47580d937278557369635a373">
+         Lupe
+        </a>
+        (
+        <a href="/assets/Icons/Default/sprite.svg?2b34f6b47580d937278557369635a373">
+         search.svg
+        </a>
+        ), iStock.com/bounward
+       </li>
+       <li>
+        <a href="/assets/Icons/Default/sprite.svg?2b34f6b47580d937278557369635a373">
+         Illustrierte Weltkugel
+        </a>
+        (
+        <a href="/assets/Icons/Default/sprite.svg?2b34f6b47580d937278557369635a373">
+         global.svg
+        </a>
+        ), iStock.com/bounward
+       </li>
+       <li>
+        Fachkraft aus dem Ausland arbeitet in Deutschland (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/0_Startseite_FK/2_Moon_Safari_-_stock.adobe.com.jpeg">
+         2_Moon_Safari_-_stock.adobe.com.jpeg
+        </a>
+        ), Moon Safari – stock.adobe.com
+       </li>
+       <li>
+        International group of young people completing their vocational training in Germany (
+        <a href="/fileadmin/1_Rebrush_2022/b_Arbeitgeber/2_Einreise_u_Beschaeftigung/2.5_iStock.com_andresr.jpg">
+         2.5_iStock.com_andresr.jpg
+        </a>
+        ), iStock.com/andresr
+       </li>
+       <li>
+        Internationale Fachkräfte arbeiten in Deutschland (
+        <a href="/fileadmin/1_Rebrush_2022/b_Arbeitgeber/1_Gezielt_rekrutieren/1.3_AnnaStills_-_stock.adobe.com.jpeg">
+         1.3_AnnaStills_-_stock.adobe.com.jpeg
+        </a>
+        ), AnnaStills – stock.adobe.com
+       </li>
+       <li>
+        Fotolia_230936847_S.jpg, ©stadtratte
+       </li>
+       <li>
+        Frau arbeitet im Büro vor einem Computer (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/0_Startseite_FK/9_iStock.com_PeopleImages.jpg">
+         9_iStock.com_PeopleImages.jpg
+        </a>
+        ), iStock.com/PeopleImages
+       </li>
+       <li>
+        <a href="/assets/Icons/Default/sprite.svg?2b34f6b47580d937278557369635a373">
+         Geschlossener Briefumschlag
+        </a>
+        (
+        <a href="/assets/Icons/Default/sprite.svg?2b34f6b47580d937278557369635a373">
+         email.svg
+        </a>
+        ), iStock.com/bounward
+       </li>
+       <li>
+        c37852
+        <a href="https://www.make-it-in-germany.com/de/#c37852">
+         Internationale Jugendgruppe in Deutschland
+        </a>
+        (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/0_Startseite_FK/1_1_Davide_Angelini_-_stock.adobe.com.jpeg">
+         1_1_Davide_Angelini_-_stock.adobe.com.jpeg
+        </a>
+        ), Davide Angelini – stock.adobe.com
+       </li>
+       <li>
+        c52111
+        <a href="https://www.make-it-in-germany.com/de/#c52111">
+         Fröhliche Gruppe von Menschen in Deutschland
+        </a>
+        (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/0_Startseite_FK/Davide_Zanin_-_stock.adobe.com.jpeg">
+         Davide_Zanin_-_stock.adobe.com.jpeg
+        </a>
+        ), Davide Zanin – stock.adobe.com
+       </li>
+       <li>
+        c55071
+        <a href="https://www.make-it-in-germany.com/de/#c55071">
+         Mann mit einem Reisepass
+        </a>
+        (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/3_Visum_u_Aufenthalt/1.20_Nicolas_F_-_stock.adobe.com.jpeg">
+         1.20_Nicolas_F_-_stock.adobe.com.jpeg
+        </a>
+        ), Nicolas F – stock.adobe.com
+       </li>
+       <li>
+        c51225
+        <a href="https://www.make-it-in-germany.com/de/#c51225">
+         Reisepass wird abgestempelt
+        </a>
+        (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/3_Visum_u_Aufenthalt/1.19_New_Africa_-_stock.adobe.com.jpeg">
+         1.19_New_Africa_-_stock.adobe.com.jpeg
+        </a>
+        ), New Africa – stock.adobe.com
+       </li>
+       <li>
+        c47466
+        <a href="https://www.make-it-in-germany.com/de/#c47466">
+         International student in Berlin
+        </a>
+        (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/0_Startseite_FK/4_iStock.com_william87.jpg">
+         4_iStock.com_william87.jpg
+        </a>
+        ), iStock.com/william87
+       </li>
+       <li>
+        c47465
+        <a href="https://www.make-it-in-germany.com/de/#c47465">
+         Digitale Weltkugel auf einem Smartphone
+        </a>
+        (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/0_Startseite_FK/3_vegeox.com_-_stock.adobe.com.jpeg">
+         3_vegeox.com_-_stock.adobe.com.jpeg
+        </a>
+        ), vegeox.com – stock.adobe.com
+       </li>
+       <li>
+        c48157
+        <a href="https://www.make-it-in-germany.com/de/#c48157">
+         Internationale Ingenieurin bei der Arbeit
+        </a>
+        (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/1_Arbeiten_in_DE/1.3_iStock.com_aquaArts_studio.jpg">
+         1.3_iStock.com_aquaArts_studio.jpg
+        </a>
+        ), iStock.com/aquaArts studio
+       </li>
+       <li>
+        c50941
+        <a href="https://www.make-it-in-germany.com/de/#c50941">
+         Berufskrfatfahrerin vor LKWs
+        </a>
+        (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/1_Arbeiten_in_DE/1.7_AdobeStock_300482741.jpeg">
+         1.7_AdobeStock_300482741.jpeg
+        </a>
+        ), littlewolf1989-stock.adobe.com
+       </li>
+       <li>
+        c48112
+        <a href="https://www.make-it-in-germany.com/de/#c48112">
+         Eine internationale Familie trifft sich am Flughafen
+        </a>
+        (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/0_Startseite_FK/6_michaeljung_-_stock.adobe.com.jpeg">
+         6_michaeljung_-_stock.adobe.com.jpeg
+        </a>
+        ), michaeljung – stock.adobe.com
+       </li>
+       <li>
+        c47467
+        <a href="https://www.make-it-in-germany.com/de/#c47467">
+         Ansicht von Freiburg im Breisgau
+        </a>
+        (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/Header_FK/H_7_Simon_Dux_-_stock.adobe.com.jpeg">
+         H_7_Simon_Dux_-_stock.adobe.com.jpeg
+        </a>
+        ), Simon Dux - stock.adobe.com
+       </li>
+       <li>
+        c47048
+        <a href="https://www.make-it-in-germany.com/de/#c47048">
+         Internationale Fachkräfte arbeiten in Deutschland
+        </a>
+        (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/0_Startseite_FK/7_kerkezz_-_stock.adobe.com.jpeg">
+         7_kerkezz_-_stock.adobe.com.jpeg
+        </a>
+        ), kerkezz – stock.adobe.com
+       </li>
+       <li>
+        <a href="/assets/Icons/Default/sprite.svg?2b34f6b47580d937278557369635a373">
+         Kasten mit Pfeil rechts
+        </a>
+        (
+        <a href="/assets/Icons/Default/sprite.svg?2b34f6b47580d937278557369635a373">
+         external-link.svg
+        </a>
+        ), iStock.com/bounward
+       </li>
+       <li>
+        c48393
+        <a href="https://www.make-it-in-germany.com/de/#c48393">
+         Internationale Fachkräfte arbeiten zusammen in einem deutschen Unternehmen
+        </a>
+        (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/0_Startseite_FK/8_Liubomir_-_stock.adobe.com.jpeg">
+         8_Liubomir_-_stock.adobe.com.jpeg
+        </a>
+        ), Liubomir – stock.adobe.com
+       </li>
+       <li>
+        c47052
+        <a href="https://www.make-it-in-germany.com/de/#c47052">
+         Hamburger Stadtlandschaft
+        </a>
+        (
+        <a href="/fileadmin/1_Rebrush_2022/a_Fachkraefte/0_Startseite_FK/10_iStock.com_fotoVoyager.jpg">
+         10_iStock.com_fotoVoyager.jpg
+        </a>
+        ), iStock.com/fotoVoyager
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <button>
+   <span>
+    Nach oben
+   </span>
+  </button>
+  <dialog>
+   <div>
+    <button>
+     <span>
+      <span>
+      </span>
+     </span>
+     <span>
+      Dialog schließen
+     </span>
+    </button>
+    <div>
+    </div>
+    <div hidden="">
+    </div>
+   </div>
+  </dialog>
+  <div data-focus-id="outdated-browser">
+   <template>
+    <div>
+     <div>
+      <header>
+       <span>
+        Achtung: Sie nutzen einen veralteten Browser!
+       </span>
+      </header>
+      <p>
+       Bitte wechseln Sie zu einem modernen Browser (z.B. Google Chrome, Firefox oder Microsoft Edge), um in den Genuss des besten Nutzererlebnisses zu kommen.
+      </p>
+      <p>
+       <button>
+        Trotzdem fortfahren
+       </button>
+      </p>
+     </div>
+    </div>
+   </template>
+  </div>
+  <div data-created-at="1743279372407" id="usercentrics-root" style="">
+  </div>
+ </body>
+</html>
