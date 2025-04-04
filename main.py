@@ -73,7 +73,7 @@ def main():
     keywords = ""
     st.title('Python AI Web Search')
     name = st.text_input("Enter file name: ")
-    pages = st.text_input("Enter pages 1-5: ")
+    pages = st.number_input('Enter pages 1-5: ', min_value=1, max_value=5, value=1, step=1)
 
     if st.button("Generate keywords chat"):
         with st.spinner("Searching...", show_time=True):
