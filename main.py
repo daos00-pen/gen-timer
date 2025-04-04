@@ -140,11 +140,12 @@ def main():
             # st.markdown(f"Your selected options: {selection}.")
 
             from streamlit_tags import st_tags
+            input_keywords = keywords[0]
             chosen_keywords = st_tags(
                 label='# Generated Keywords:',
                 text='Press enter to add more',
-                value=keywords,
-                suggestions=keywords,
+                value=input_keywords,
+                suggestions=input_keywords,
                 maxtags=30,
                 key='1')
             if st.button("Search"):
