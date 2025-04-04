@@ -141,9 +141,11 @@ def main():
                     status.update(
                         label="Generate keywords chat generated!", state="complete", expanded=False
                     )
-        k_list = keywords.split(",")
-        keywords_list = [keyword.strip() for keyword in k_list]
-        search_trigger(keywords_list)
+        if keywords:
+            st.write(keywords)
+            k_list = keywords.split(",")
+            keywords_list = [keyword.strip() for keyword in k_list]
+            search_trigger(keywords_list)
 
     if st.button("Generate keywords keyllm"):
         with st.spinner("Generate...", show_time=True):
@@ -175,9 +177,10 @@ def main():
                     status.update(
                         label="Generate keywords keyllm generated!", state="complete", expanded=False
                     )
-
-        input_keywords = keywords[0]
-        search_trigger(input_keywords)
+        if keywords:
+            st.write(keywords)
+            input_keywords = keywords[0]
+            search_trigger(input_keywords)
 
 
 
