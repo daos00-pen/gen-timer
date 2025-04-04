@@ -75,7 +75,7 @@ def main():
     name = st.text_input("Enter file name: ")
     range = st.text_input("Enter range 1-5: ")
 
-    if st.button("Generate keywords chat") or name:
+    if st.button("Generate keywords chat") or (name and range):
         with st.spinner("Searching...", show_time=True):
             with st.status("Generate keywords chat...", expanded=True) as status:
                 st.write("Generate keywords chat...")
@@ -101,7 +101,7 @@ def main():
                         label="Generate keywords chat generated!", state="complete", expanded=False
                     )
 
-    if st.button("Generate keywords keyllm") or name:
+    if st.button("Generate keywords keyllm") or (name and range):
         with st.spinner("Generate...", show_time=True):
             with st.status("Generate keywords keyllm...", expanded=True) as status:
                 st.write("Generate keywords keyllm...")
