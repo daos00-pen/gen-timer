@@ -1,5 +1,5 @@
 import time
-from llm_inference.keyword_generation import keyword_generation
+from keybert import KeyLLM
 from keybert.llm import OpenAI as keyLLM_OpenAI
 from openai import OpenAI
 import streamlit as st
@@ -118,7 +118,8 @@ def main():
                     """
                 llm = llm_func(keyllm_prompt)
                 t0_inference = time.perf_counter()
-                keywords = keyword_generation(documents, llm)
+                kw_model = KeyLLM(llm)
+                keywords = kw_model.extract_keywords(documents)
                 t1_inference = time.perf_counter()
                 inference_time = t1_inference - t0_inference
                 st.write(f"Time taken: {inference_time:.6f} seconds\n\n")
@@ -152,7 +153,7 @@ def main():
             keywords_str = ", ".join(chosen_keywords)
             print(keywords_str)
             encoded_query = quote_plus(keywords_str)
-            srch = search(keywords_str, num=10, stop=20, pause=1)
+            srch = search(keywords_str, num=20, stop=20, pause=1)
 
             with st.spinner("Searching...", show_time=True):
                 st.link_button("Search in browser", f"https://www.google.com/search?q={encoded_query}")
