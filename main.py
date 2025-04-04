@@ -7,7 +7,7 @@ import streamlit as st
 
 def chat_completion(documents):
     client = OpenAI(
-        api_key=st.secrets("STUDIO"),
+        api_key=st.secrets["STUDIO"],
         base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
     )
     completion = client.chat.completions.create(
@@ -23,7 +23,7 @@ def chat_completion(documents):
 
 def llm_func(keyllm_prompt):
     client = OpenAI(
-        api_key=st.secrets("STUDIO"),
+        api_key=st.secrets["STUDIO"],
         base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
     )
     llm = keyLLM_OpenAI(client, model="gemini-2.0-flash", system_prompt=get_prompt(), prompt=keyllm_prompt,
