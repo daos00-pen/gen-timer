@@ -30,9 +30,9 @@ def llm_func(keyllm_prompt):
                          chat=True)
     return llm
 
-def get_documents(site, range):
+def get_documents(site, pages):
     documents = "DOCUMENT:\n"
-    for idx, value in enumerate(range(range)):
+    for idx, value in enumerate(range(pages)):
         with open(f"llm_test_files/page{site}-{idx}.text", "r", encoding="utf-8") as file:
             documents += f"{idx + 1}.\n" + file.read() + ","
     # with open(f"compare_c.text", "r", encoding="utf-8") as file:
@@ -73,9 +73,9 @@ def main():
     keywords = ""
     st.title('Python AI Web Search')
     name = st.text_input("Enter file name: ")
-    range = st.text_input("Enter range 1-5: ")
+    pages = st.text_input("Enter pages 1-5: ")
 
-    if st.button("Generate keywords chat") or (name and range):
+    if st.button("Generate keywords chat") or (name and pages):
         with st.spinner("Searching...", show_time=True):
             with st.status("Generate keywords chat...", expanded=True) as status:
                 st.write("Generate keywords chat...")
@@ -101,11 +101,11 @@ def main():
                         label="Generate keywords chat generated!", state="complete", expanded=False
                     )
 
-    if st.button("Generate keywords keyllm") or (name and range):
+    if st.button("Generate keywords keyllm") or (name and pages):
         with st.spinner("Generate...", show_time=True):
             with st.status("Generate keywords keyllm...", expanded=True) as status:
                 st.write("Generate keywords keyllm...")
-                documents = get_documents(name, range)
+                documents = get_documents(name, pages)
                 keyllm_prompt = """
                 I have the following document:
                 - [DOCUMENT]
