@@ -3,6 +3,7 @@ from keybert import KeyLLM
 from keybert.llm import OpenAI as keyLLM_OpenAI
 from openai import OpenAI
 import streamlit as st
+from streamlit_tags import st_tags
 
 
 def chat_completion(documents):
